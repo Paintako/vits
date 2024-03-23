@@ -12,3 +12,7 @@ monotonic_align/monotonic_align
 
 *.wav
 *.spec.pt
+
+gen_audio_no/
+gen_text/
+*.json
