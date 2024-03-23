@@ -1,6 +1,6 @@
 """ from https://github.com/keithito/tacotron """
 from text import cleaners
-from text.symbols import symbols
+from text.symbols import symbols, base_offset
 
 
 # Mappings from symbol to numeric ID and vice versa:
@@ -8,7 +8,7 @@ _symbol_to_id = {s: i for i, s in enumerate(symbols)}
 _id_to_symbol = {i: s for i, s in enumerate(symbols)}
 
 
-def text_to_sequence(text, cleaner_names):
+def text_to_sequence(text, cleaner_names, langauge):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
     Args:
       text: string to convert to a sequence
@@ -17,32 +17,47 @@ def text_to_sequence(text, cleaner_names):
       List of integers corresponding to the symbols in the text
   '''
   sequence = []
-
-  clean_text = _clean_text(text, cleaner_names)
-  for symbol in clean_text:
-    symbol_id = _symbol_to_id[symbol]
-    sequence += [symbol_id]
+  for char in text:
+    if char == '':
+      continue
+    symbol_id = symbols.index(char)
+    sequence.append(symbol_id)
   return sequence
 
 
-def cleaned_text_to_sequence(cleaned_text):
+def cleaned_text_to_sequence(cleaned_text, language):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
     Args:
       text: string to convert to a sequence
     Returns:
       List of integers corresponding to the symbols in the text
   '''
-  sequence = [_symbol_to_id[symbol] for symbol in cleaned_text]
+  sequence = []
+  for char in cleaned_text:
+    if char == '':
+      raise Exception('Found empty string!')
+    symbols_id = symbols.index(char) + language * base_offset
+    sequence.append(symbols_id)
   return sequence
 
 
-def sequence_to_text(sequence):
-  '''Converts a sequence of IDs back to a string'''
-  result = ''
-  for symbol_id in sequence:
-    s = _id_to_symbol[symbol_id]
-    result += s
-  return result
+def sequence_to_cleaned_text(sequence, language, symbols):
+    '''Converts a sequence of IDs to a string of text corresponding to the symbols.
+    Args:
+        sequence: list of integers representing the sequence
+        language: integer representing the language offset
+        symbols: list of symbols used in the conversion
+    Returns:
+        String corresponding to the sequence of IDs
+    '''
+    cleaned_text = ''
+    base_offset = len(symbols)
+    for symbol_id in sequence:
+        if symbol_id % base_offset == 0 and symbol_id != 0:
+            raise Exception('Invalid symbol ID!')
+        char_index = (symbol_id - language * base_offset) % base_offset
+        cleaned_text += symbols[char_index]
+    return cleaned_text
 
 
 def _clean_text(text, cleaner_names):

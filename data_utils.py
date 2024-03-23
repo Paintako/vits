@@ -190,19 +190,37 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         # wav_length ~= file_size / (wav_channels * Bytes per dim) = file_size / (1 * 2)
         # spec_length = wav_length // hop_length
 
+        lang_map = {
+            'ID' : 0,
+            'EN' : 1,
+            'TW' : 2,
+            'ZH' : 3,
+            'HAK' : 4,
+            'TZH' : 5,
+        }
+
+        lang_map = {
+            'TW' : 0,
+            'ZH' : 1,
+            'HAK' : 2,
+            'DB' : 3
+        }
+
+
         audiopaths_sid_text_new = []
         lengths = []
-        for audiopath, sid, text in self.audiopaths_sid_text:
+        for audiopath, sid, lang, text in self.audiopaths_sid_text:
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_sid_text_new.append([audiopath, sid, text])
+                lang_id = int(lang_map[lang])
+                audiopaths_sid_text_new.append([audiopath, sid, lang_id, text])
                 lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_sid_text = audiopaths_sid_text_new
         self.lengths = lengths
 
     def get_audio_text_speaker_pair(self, audiopath_sid_text):
         # separate filename, speaker_id and text
-        audiopath, sid, text = audiopath_sid_text[0], audiopath_sid_text[1], audiopath_sid_text[2]
-        text = self.get_text(text)
+        audiopath, sid, lang, text = audiopath_sid_text[0], audiopath_sid_text[1], audiopath_sid_text[2], audiopath_sid_text[3]
+        text = self.get_text(text, lang)
         spec, wav = self.get_audio(audiopath)
         sid = self.get_sid(sid)
         return (text, spec, wav, sid)
@@ -232,9 +250,9 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
             torch.save(spec, spec_filename)
         return spec, audio_norm
     
-    def get_text(self, text):
+    def get_text(self, text, lang):
         if self.cleaned_text:
-            text_norm = cleaned_text_to_sequence(text)
+            text_norm = cleaned_text_to_sequence(text, lang)
         else:
             text_norm = text_to_sequence(text, self.text_cleaners)
         if self.add_blank:
