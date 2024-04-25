@@ -40,7 +40,7 @@ SPACE = ' '
 # for hak, tw, zh, tzh, en, id
 _symbols = ['', '!', '"', ',', '-', '.', '0', '1', '2', '3', '4', '5', '7', '8', '9', ':', ';', '?', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'æ', 'ç', 'ð', 'ŋ', 'ɐ', 'ɑ', 'ɔ', 'ə', 'ɚ', 'ɛ', 'ɜ', 'ɡ', 'ɪ', 'ɬ', 'ɲ', 'ɹ', 'ɾ', 'ʃ', 'ʊ', 'ʌ', 'ʒ', 'ʔ', 'ʲ', 'ˈ', 'ˌ', 'ː', '̃', '̩', 'θ', 'ᵻ', '。']
 symbols = [_conn] + [SPACE] + _symbols
-languages_nums = 1
+languages_nums = 2
 base_offset = len(symbols)
 symbols = symbols * languages_nums
 

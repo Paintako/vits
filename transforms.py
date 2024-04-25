@@ -161,6 +161,18 @@ def rational_quadratic_spline(inputs,
         c = - input_delta * (inputs - input_cumheights)
 
         discriminant = b.pow(2) - 4 * a * c
+        if (discriminant < 0).all():
+            print('Warning: inverse produced complex roots. Returning real part.')
+            # ignore complex roots
+            for i in range(3):
+                if (discriminant < 0).all():
+                    a = a / 10
+                    b = b / 10
+                    c = c / 10
+                    discriminant = b.pow(2) - 4 * a * c
+                else:
+                    break
+        # check if there are still complex roots
         assert (discriminant >= 0).all()
 
         root = (2 * c) / (-b - torch.sqrt(discriminant))

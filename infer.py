@@ -32,11 +32,11 @@ def process_text(input_text, english_flag):
 def get_text(text, langauge):
     cleaner_names = ['zh_cleaners']
     text_norm = cleaned_text_to_sequence(text, langauge)
-    text_norm = commons.intersperse(text_norm, 0)
+    # text_norm = commons.intersperse(text_norm, 0)
     text_norm = torch.LongTensor(text_norm)
     return text_norm
 
-hps = utils.get_hparams_from_file("logs/final_v2/config.json")
+hps = utils.get_hparams_from_file("logs/db_v2/config.json")
 
 net_g = SynthesizerTrn(
     len(symbols),
@@ -46,7 +46,7 @@ net_g = SynthesizerTrn(
     **hps.model).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("logs/final_v2/G_232000.pth", net_g, None)
+_ = utils.load_checkpoint("logs/db_v2/G_70000.pth", net_g, None)
 
 def synthesis(text, speaker_id, speaker_name, filename, english_flag, langauge):
     processed_text = process_text(text, english_flag)
@@ -110,53 +110,68 @@ if __name__ == '__main__':
     parser.add_argument("--lang", default=0)
     parser.add_argument("--en", default=False)
     args = parser.parse_args()
-    speaker_id = [0, 1, 2, 3, 130, 131, 242, 243]
-    
+    speaker_id = [1071]
+    db_text = [
+        '0_tsch-ioo5 p-e1 dj-oo5',
+        '1_s-e3 s-e3',
+        '2_gn-i2 h-or2 sil d-a7-tsc-ioo1 h-or2',
+        '3_p-uu5-iornn7 s-e3',
+        '4_t-ue3 p-uu5 tsch-i2',
+        '5_m-or7 k-ua1-gh-i7',
+        '6_ts-ue3 k-ainn3',
+        '7_m-u3 kh-e5-tsch-i3 l-or5'
 
-    lang_map = {
-        'ID' : 0,
-        'EN' : 1,
-        'TW' : 2,
-        'ZH' : 3,
-        'HAK' : 4,
-        'TZH' : 5
-    }
+    ]
+    text = 'tsch-ioo5 p-e1 dj-oo5'
+    text = 'm2-ing2 t1-ian1 d5-e5 t1-ian1 q4-i4 v4 b4-ao4 sh4-iii4 q2-ing2 t1-ian1 , uo3 m5-en5 k3-e3 i3 ch1-u1 q4-v4 j1-iao1 iou2 。'
+    synthesis(text, 1, 1, f"{text}.wav", False, 0)
+    for text in db_text:
+        for i in speaker_id:
+            synthesis(text[3:], i, i, f"{text[0]}.wav", False, 1)
+    # lang_map = {
+    #     'ID' : 0,
+    #     'EN' : 1,
+    #     'TW' : 2,
+    #     'ZH' : 3,
+    #     'HAK' : 4,
+    #     'TZH' : 5
+    # }
 
-    for file in os.listdir("gen_text"):
-        file_path = os.path.join("gen_text", file)
-        print(file_path)
-        lang = None        
-        if 'ctl.txt' in file_path:
-            lang = 'TZH'
-            continue
+    # for file in os.listdir("gen_text"):
+    #     file_path = os.path.join("gen_text", file)
+    #     print(file_path)
+    #     lang = None        
+    #     if 'ctl.txt' in file_path:
+    #         lang = 'TZH'
+    #         continue
         
-        if 'tw.txt' in file_path:
-            lang = 'TW'
+    #     if 'tw.txt' in file_path:
+    #         lang = 'TW'
         
-        if 'ha.txt' in file_path:
-            lang = 'HAK'
-            continue
+    #     if 'ha.txt' in file_path:
+    #         lang = 'HAK'
+    #         continue
             
-        if 'jp.txt' in file_path:
-            lang = 'JP'
-            continue
+    #     if 'jp.txt' in file_path:
+    #         lang = 'JP'
+    #         continue
 
-        if 'zh.txt' in file_path:
-            lang = 'ZH'
-            continue
+    #     if 'zh.txt' in file_path:
+    #         lang = 'ZH'
+    #         continue
             
-        if 'en.txt' in file_path:
-            lang = 'EN'
-            continue
+    #     if 'en.txt' in file_path:
+    #         lang = 'EN'
+    #         continue
 
-        if 'id.txt' in file_path:
-            lang = 'ID'
-            continue
+    #     if 'id.txt' in file_path:
+    #         lang = 'ID'
+    #         continue
 
-        with open(file_path, 'r', encoding='utf8') as f:
-            lines = f.readlines()
-            print(f'synthesis for {file_path}, language: {lang_map[lang]}')
-            for line in lines:
-                filename, text = line.strip().split("|")
-                for i in speaker_id:
-                    synthesis(text, i, i, filename, None, lang_map[lang])
+    #     with open(file_path, 'r', encoding='utf8') as f:
+    #         lines = f.readlines()
+    #         print(f'synthesis for {file_path}, language: {lang_map[lang]}')
+    #         for line in lines:
+    #             filename, text = line.strip().split("|")
+    #             for i in speaker_id:
+    #                 synthesis(text, i, i, filename, None, lang_map[lang])
