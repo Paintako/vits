@@ -1,0 +1,7 @@
+en_01.wav|wˈɪnɚz dˈuː lˈuːzɚz duːnˌɑːt wˈɔnt tə dˈuː.
+en_02.wav|nˈoʊ fˈaɪɚ wɪðˌaʊt smˈoʊk.
+en_03.wav|aɪm nˌɑːt ɡˌoʊɪŋ tə dˈuː ðˈæt.
+en_04.wav|wˈɔːɹnɪŋ, sˌɛɡməntˈeɪʃən fˈɔlt.
+en_05.wav|tɹˈaɪɪŋ təbi bˈɛɾɚ.
+en_06.wav|stˈaɪɹəfˌoʊm
+en_07.wav|dˌiːhjˈuːmɪdˌɪfaɪɚ

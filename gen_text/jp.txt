@@ -1,0 +1,5 @@
+jp_01.wav|yo5 ro5 ko5 n5 de5 o5 te5 tsu5 da5 i5 shi5 ma5 su5
+jp_02.wav|mu5 shi5 ro5 ro5 n5 ke5 no5 ho5 u5 ga5 ha5 ge5 ya5 su5 i5 tsu5 te5 ki5 i5 ta5 zo5 sil
+jp_03.wav|a5 ku5 yu5 u5 to5 tsu5 ki5 a5 wa5 na5 i5 yo5 u5 ni5 shi5 na5 sa5 i5 sil
+jp_04.wav|i5 ke5 n5 ga5 a5 ru5 ni5 n5 ha5 te5 wo5 a5 ge5 te5 ku5 da5 sa5 i5 sil
+jp_05.wav|ta5 n5 so5 u5 e5 no5 pa5 ra5 ji5 u5 mu5 ha5 yu5 u5 ki5 go5 u5 se5 i5 ni5 o5 ke5 ru5 se5 tsu5 shi5 yo5 ku5 su5 i5 so5 ka5 ni5 mo5 chi5 i5 ra5 re5 ru5 sil 

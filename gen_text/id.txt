@@ -1,0 +1,5 @@
+id_01.wav|ˈsaja ˈsuka ˈapɛl
+id_02.wav|ˈkartu asuˈransi kəseˈhatan
+id_03.wav|ˈkartu ˈsakɪt tʃidəˈra bəˈsar
+id_04.wav|aˈpakah ˈanda ˈbaɪʔ ˈbaɪʔ ˈsadʒa
+id_05.wav|ˈpilɪh maˈkanan jaŋ ˈaɡaʔ ˈlunaʔ
