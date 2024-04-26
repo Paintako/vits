@@ -190,18 +190,18 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         # wav_length ~= file_size / (wav_channels * Bytes per dim) = file_size / (1 * 2)
         # spec_length = wav_length // hop_length
 
-        # lang_map = {
-        #     'ID' : 0,
-        #     'EN' : 1,
-        #     'TW' : 2,
-        #     'ZH' : 3,
-        #     'HAK' : 4,
-        #     'TZH' : 5,
-        # }
-
         lang_map = {
-            'TW' : 0
+            'ID' : 0,
+            'EN' : 1,
+            'TW' : 2,
+            'ZH' : 3,
+            'HAK' : 4,
+            'TZH' : 5,
         }
+
+        # lang_map = {
+        #     'TW' : 0
+        # }
 
         audiopaths_sid_text_new = []
         lengths = []
@@ -248,7 +248,7 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
     
     def get_text(self, text, lang):
         if self.cleaned_text:
-            text_norm = cleaned_text_to_sequence(text, lang)
+            text_norm = cleaned_text_to_sequence(text)
         else:
             text_norm = text_to_sequence(text, self.text_cleaners)
         if self.add_blank:
