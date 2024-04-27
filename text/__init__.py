@@ -1,6 +1,6 @@
 """ from https://github.com/keithito/tacotron """
 from text import cleaners
-from text.symbols import symbols
+from text.symbols import symbols, base_offset
 
 
 # Mappings from symbol to numeric ID and vice versa:
@@ -25,7 +25,7 @@ def text_to_sequence(text, cleaner_names, langauge):
   return sequence
 
 
-def cleaned_text_to_sequence(cleaned_text):
+def cleaned_text_to_sequence(cleaned_text, language):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
     Args:
       text: string to convert to a sequence
@@ -33,10 +33,11 @@ def cleaned_text_to_sequence(cleaned_text):
       List of integers corresponding to the symbols in the text
   '''
   sequence = []
-  for ph in cleaned_text.split(' '):
-    if ph == '':
+  for char in cleaned_text:
+    if char == '':
       raise Exception('Found empty string!')
-    sequence.append(_symbol_to_id[ph])
+    symbols_id = symbols.index(char) + language * base_offset
+    sequence.append(symbols_id)
   return sequence
 
 
