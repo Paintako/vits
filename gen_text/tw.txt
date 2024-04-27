@@ -1,5 +1,5 @@
-tw_01.wav|m0 anni02 t0 i03 iah04 p0 oong01 k0 ang05 dl0 ainn01
-tw_02.wav|g0 ua01 ieng01 k0 iunn03 sc0 o07 b0 e03 i03
-tw_03.wav|tsc0 it08 k0 ieng07 t0 iam02 sc0 i03 s0 ng03 dl0 ang07 th0 au05 sc0 iu07 tsc0 inn05
-tw_04.wav|dl0 i01 ak08 p0 oo02 t0 ann01 n0 ia02 inn07 h0 ua03 n0 ieen01
-tw_05.wav|g0 ua01 ts0 u03 th0 au05 t0 ioh08 b0 o07 sc0 ioong07 sc0 in03
+tw_01.wav|manni2 ti3 au3 piah4 koong1 dlang5 e7 phainn1 ue7
+tw_02.wav|gua1 i1 kieng1 sciunn3 bo7 khah1 ho2 e7 ke3 ti3 ah3
+tw_03.wav|tscit8 kieng7 tiam2 sci3 sng3 dlang7 thau5 sciu7 tscinn5 e7
+tw_04.wav|dli1 e7 pak8 too2 nann1 e3 hia2 ninn7 tua3 khieen1
+tw_05.wav|gua1 tsu3 thau5 tioh8 bo7 scioong7 scin3 i7 e7 ue7

@@ -31,12 +31,12 @@ def process_text(input_text, english_flag):
 
 def get_text(text, langauge):
     cleaner_names = ['zh_cleaners']
-    text_norm = cleaned_text_to_sequence(text)
+    text_norm = cleaned_text_to_sequence(text, language=langauge)
     text_norm = commons.intersperse(text_norm, 0)
     text_norm = torch.LongTensor(text_norm)
     return text_norm
 
-hps = utils.get_hparams_from_file("logs/text_encoder1/config.json")
+hps = utils.get_hparams_from_file("logs/text_encoder_v2/config.json")
 
 net_g = SynthesizerTrn(
     len(symbols),
@@ -46,7 +46,7 @@ net_g = SynthesizerTrn(
     **hps.model).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("logs/text_encoder1/G_140000.pth", net_g, None)
+_ = utils.load_checkpoint("logs/text_encoder_v2/G_140000.pth", net_g, None)
 
 def synthesis(text, speaker_id, speaker_name, filename, english_flag, langauge):
     processed_text = process_text(text, english_flag)
@@ -105,10 +105,15 @@ def vc(reference_path: os.path, source, target):
 def synthsis_file(language, speaker_id):
     with open(f'gen_text/{language}.txt', 'r', encoding='utf8') as f:
         lines = f.readlines()
-    
+    lang_map = {
+        'ha' : 0,
+        'tw' : 1,
+        'zh' : 2,
+        'ctl' : 3,
+    }
     for line in lines:
         filename, text = line.strip().split("|")
-        synthesis(text, speaker_id, speaker_id, filename, False, language)
+        synthesis(text, speaker_id, speaker_id, filename, False, lang_map[language])
         
 
 if __name__ == '__main__':
@@ -120,7 +125,7 @@ if __name__ == '__main__':
     parser.add_argument("--en", default=False)
 
     file_list = ['zh', 'ctl', 'ha', 'tw']
-    speaker_list = [0,1,56,57,59,60,61,62]
+    speaker_list = [0]
     for file in file_list:
         for speaker in speaker_list:
             synthsis_file(file, speaker)
