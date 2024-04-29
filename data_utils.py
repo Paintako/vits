@@ -195,6 +195,8 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
             'TW' : 1,
             'ZH' : 2,
             'TZH' : 3,
+            'EN' : 4,
+            'ID' : 5
         }
 
         audiopaths_sid_text_new = []

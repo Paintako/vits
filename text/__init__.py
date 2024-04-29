@@ -38,8 +38,6 @@ def cleaned_text_to_sequence(cleaned_text, language):
       raise Exception('Found empty string!')
     symbols_id = symbols.index(char) + language * base_offset
     sequence.append(symbols_id)
-  for x, y in zip(cleaned_text, sequence):
-    print(f'{language}, {x} -> {y}')
   return sequence
 
 

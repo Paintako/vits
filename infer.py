@@ -36,7 +36,7 @@ def get_text(text, langauge):
     text_norm = torch.LongTensor(text_norm)
     return text_norm
 
-hps = utils.get_hparams_from_file("logs/text_encoder_v2/config.json")
+hps = utils.get_hparams_from_file("logs/text_encoder_v2_2/config.json")
 
 net_g = SynthesizerTrn(
     len(symbols),
@@ -46,7 +46,7 @@ net_g = SynthesizerTrn(
     **hps.model).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("logs/text_encoder_v2/G_140000.pth", net_g, None)
+_ = utils.load_checkpoint("logs/text_encoder_v2_2/G_85000.pth", net_g, None)
 
 def synthesis(text, speaker_id, speaker_name, filename, english_flag, langauge):
     processed_text = process_text(text, english_flag)
@@ -110,6 +110,8 @@ def synthsis_file(language, speaker_id):
         'tw' : 1,
         'zh' : 2,
         'ctl' : 3,
+        'en' : 4,
+        'id' : 5
     }
     for line in lines:
         filename, text = line.strip().split("|")
@@ -124,8 +126,8 @@ if __name__ == '__main__':
     parser.add_argument("--lang", default=0)
     parser.add_argument("--en", default=False)
 
-    file_list = ['zh', 'ctl', 'ha', 'tw']
-    speaker_list = [0]
+    file_list = ['tw', 'zh', 'ctl']
+    speaker_list = [0, 38, 39]
     for file in file_list:
         for speaker in speaker_list:
             synthsis_file(file, speaker)

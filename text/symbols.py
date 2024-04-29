@@ -35,7 +35,7 @@ SPACE = ' '
 
 _symbols = ['', '!', '"', ',', '-', '.', '0', '1', '2', '3', '4', '5', '7', '8', '9', ':', ';', '?', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'æ', 'ç', 'ð', 'ŋ', 'ɐ', 'ɑ', 'ɔ', 'ə', 'ɚ', 'ɛ', 'ɜ', 'ɡ', 'ɪ', 'ɬ', 'ɲ', 'ɹ', 'ɾ', 'ʃ', 'ʊ', 'ʌ', 'ʒ', 'ʔ', 'ʲ', 'ˈ', 'ˌ', 'ː', '̃', '̩', 'θ', 'ᵻ', '。']
 symbols = [_conn] + [SPACE] + _symbols
-languages_nums = 4
+languages_nums = 6
 base_offset = len(symbols)
 symbols = symbols * languages_nums
 
@@ -84,10 +84,12 @@ if __name__ == "__main__":
       'TW' : 1,
       'ZH' : 2,
       'TZH' : 3,
+      'EN' : 4,
+      'ID' : 5
   }
 
   for lang in lang_map:
-    result = cleaned_text_to_sequence('ni3 hao2 qen2', lang_map[lang])
+    result = cleaned_text_to_sequence('- ni3 hao2 qen2 sil , 。', lang_map[lang])
     print(result)
     print(sequence_to_cleaned_text(result, lang_map[lang], symbols))
     

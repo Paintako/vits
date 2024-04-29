@@ -1,0 +1,843 @@
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_193.wav|0|TW|l0 i01 kh0 i02 k0 a03 k0 a07 l0 auh08 , i03 t0 in07 b0 ng07 tsh0 a01 kh0 ih04 , iann07 au07 m0 ut08 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_261.wav|0|TW|t0 ai02 ts0 ong07 , ang03 h0 am03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_209.wav|0|TW|ts0 u07 ut08 , ann07 enn07 b0 uann02 , e05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_262.wav|0|TW|l0 am03 t0 ui07 , ok04 t0 u07 ts0 eh04 , iah08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_308.wav|0|TW|h0 uann07 h0 i02 , o03 t0 o01 h0 ua03 n0 an05 tsh0 un01 , oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_122.wav|0|TW|t0 ai07 in07 b0 iok04 s0 un07 b0 ut04 b0 uan02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_157.wav|0|TW|ing07 h0 oo07 l0 ik08 , iong03 kh0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_162.wav|0|TW|l0 am07 e01 k0 e07 , ong07 th0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S08M90_067.wav|0|TW|l0 ing02 t0 ioh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_244.wav|0|TW|s0 un01 an01 , ian07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_105.wav|0|TW|t0 i07 b0 o01 l0 ing01 , i01 ts0 oo01 s0 ian07 , au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_314.wav|0|TW|b0 at08 k0 iu01 t0 iam01 g0 oo02 , in07 j0 ing07 s0 ian03 t0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_315.wav|0|TW|ts0 i07 iong07 , oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_110.wav|0|TW|l0 iong07 ts0 inn02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_231.wav|0|TW|o01 b0 e05 t0 e05 , i07 i07 t0 ik08 , ik04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_192.wav|0|TW|kh0 ia07 ts0 u03 ts0 uan01 tsh0 ia01 , au01 ph0 a01 m0 a07 l0 ong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_295.wav|0|TW|k0 ing01 k0 ai03 , o01 ph0 iok04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_284.wav|0|TW|t0 ai03 ts0 ian03 , uan01 h0 ong03 kh0 an07 , am07 l0 ia03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_087.wav|0|TW|s0 oo07 in07 s0 am07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_227.wav|0|TW|tsh0 iu01 t0 e02 , an01 ing02 uat08 p0 ing03 , i02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_080.wav|0|TW|ts0 ui01 t0 ian07 , an01 s0 in02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_034.wav|0|TW|ts0 u01 ts0 iah08 , i03 l0 un05 s0 uan07 , iau03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_196.wav|0|TW|p0 ak08 t0 oo02 , ik08 ts0 ui02 ts0 a07 , ong07 s0 a07 l0 uh04 p0 i03 s0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_166.wav|0|TW|l0 ang07 g0 ok08 , iong03 s0 an07 b0 iunn03 , iu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_144.wav|0|TW|h0 un02 n0 oo07 , ik04 i07 s0 ing05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_128.wav|0|TW|h0 uai07 t0 iong07 s0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_251.wav|0|TW|i02 kh0 oo03 h0 at04 p0 ang05 l0 a07 , uainn03 o01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_239.wav|0|TW|tsh0 ian01 t0 oo03 t0 ng05 , ang07 ah01 l0 ai07 kh0 ik04 at04 p0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_155.wav|0|TW|s0 u02 tsh0 o01 t0 ai03 t0 o07 , in07 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_062.wav|0|TW|s0 ing07 th0 ai03 , un02 p0 au01 kh0 ang05 th0 am02 , uh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_117.wav|0|TW|k0 oo02 k0 iong07 ph0 ok08 b0 ut04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_237.wav|0|TW|s0 im07 k0 uann07 th0 au05 , at04 ts0 at08 ts0 ah08 , iu05 b0 ua02 l0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_010.wav|0|TW|kh0 oo01 k0 am01 , ua01 ts0 io03 ph0 ue07 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S08M90_119.wav|0|TW|ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_034.wav|0|TW|t0 iong07 h0 ua05 , uan01 ai07 ts0 am05 , oo03 t0 uan01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_280.wav|0|TW|p0 eh04 th0 iap08 ang03 , oo07 b0 iong07 l0 u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_255.wav|0|TW|oo07 kh0 oo07 ih08 , ui05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_018.wav|0|TW|tsh0 ut08 l0 oo05 , ong07 k0 oo01 ng03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_032.wav|0|TW|t0 ua03 k0 ang02 , ok08 k0 io02 s0 ian07 , ak04 h0 ok08 p0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_330.wav|0|TW|s0 in07 iau07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S40M90_202.wav|0|TW|s0 ua01 ph0 oo01 , im07 l0 ng05 tsh0 ak04 , ueh04 l0 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_135.wav|0|TW|t0 iunn07 t0 ai03 kh0 ian07 k0 i02 l0 iam03 k0 uan02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_110.wav|0|TW|h0 uan07 iunn01 k0 in07 , im01 j0 au03 s0 at04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S39M90_142.wav|0|TW|k0 uan01 t0 iong03 l0 oo07 , an07 p0 iau07 tsh0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_047.wav|0|TW|k0 un07 t0 o02 , ih08 s0 ut08 s0 ue07 ui02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M90/S41M90_025.wav|0|TW|h0 ai01 p0 uat08 , e07 k0 ai05 t0 iu03 , ing01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F42/S15_F42_263.wav|1|TW|k0 iam01 h0 oong01 , ieng03 t0 ook08 kh0 ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F42/S24_F42_161.wav|1|TW|djz0 in07 s0 u03 sc0 iek04 , am07 s0 at08 p0 iah04 tsch0 it04 , oong07 tsc0 in07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S30_M33_005.wav|2|TW|dl0 i07 ts0 uu02 i05 h0 oh02 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_250.wav|2|TW|oong02 kh0 u02 s0 iam01 t0 ann01 s0 ak08 , a07 h0 ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S30_M33_039.wav|2|TW|o07 b0 ieng07 tsc0 inn01 th0 i01 , im07 uann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S30_M33_028.wav|2|TW|ang01 th0 oong01 , oo02 ai01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_249.wav|2|TW|oong02 kh0 u02 s0 iam01 t0 iu02 k0 ieng01 , at04 k0 oong01 tsh0 oo02 , ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_105.wav|2|TW|tsc0 it04 kh0 ah08 , ue07 ph0 iunn01 sc0 ue01 , inn07 ioh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_099.wav|2|TW|dl0 iu07 dl0 oong07 , au02 k0 ai07 t0 ak04 p0 ieen07 , ai05 th0 ue03 g0 in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S30_M33_043.wav|2|TW|inn01 th0 ieng05 , oo03 au02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S30_M33_004.wav|2|TW|dl0 i07 kh0 ui01 , i07 a01 dl0 oh04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S30_M33_027.wav|2|TW|am07 k0 ai07 dl0 i07 dl0 ui01 kh0 o07 , ah01 uah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_078.wav|2|TW|ieng05 tsc0 ah02 , ieng05 k0 im07 ieng05 tsc0 o07 , ang07 sc0 ai01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_149.wav|2|TW|dl0 u01 djz0 in07 b0 ang07 , ut08 tsh0 ua03 g0 ang05 dl0 o07 , ieen07 b0 ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_014.wav|2|TW|m0 ann01 m0 annh04 , iann01 tsch0 i01 dl0 o01 ioong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_020.wav|2|TW|ts0 ue02 it04 , an07 tsc0 uai02 p0 ia01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M33/S20_M33_008.wav|2|TW|djz0 i03 e02 s0 i02 k0 a07 , oo01 ts0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_045.wav|3|TW|t0 ak04 djz0 it04 , iah03 anno03 tsc0 e07 n0 it04 ts0 ut08 , iam07 sc0 ah01 b0 o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_187.wav|3|TW|g0 ua01 tsch0 iann01 dl0 i01 b0 e02 innh03 m0 iann07 k0 i03 , e02 sc0 oo07 b0 inna03 tsh0 inna07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S28_M39_117.wav|3|TW|h0 it08 ts0 un07 , ua01 g0 it08 tsc0 ang07 ua02 dl0 i03 t0 uann07 t0 ieng02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_096.wav|3|TW|it08 tsc0 iau07 t0 ua03 t0 oo07 dl0 it04 , it08 t0 i02 t0 o03 , au02 kh0 uan01 t0 au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_265.wav|3|TW|g0 ua01 ann07 s0 un01 p0 oo01 k0 eh04 tsh0 oo03 , ieen01 h0 ang05 tsc0 a03 th0 ah02 , u07 k0 u07 k0 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S27_M39_095.wav|3|TW|b0 in03 tsc0 ieng05 , an01 dl0 oo01 s0 u01 t0 ioh08 t0 un03 , e05 oong01 b0 o07 t0 uat08 , oo07 dl0 ai01 b0 uat04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_105.wav|3|TW|ui02 t0 an02 h0 un05 b0 it08 , oong07 tsc0 in07 h0 ak04 b0 un07 , ah01 ieng02 h0 u03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_176.wav|3|TW|t0 ak08 ang07 dl0 oong01 dl0 ah02 iann03 ph0 ui07 p0 iu05 , a07 t0 i07 k0 ook04 , iau01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S27_M39_026.wav|3|TW|tsh0 u02 dl0 ai07 , ua03 t0 e03 s0 ang03 , ai03 h0 i03 t0 oong01 tsc0 i03 , eh02 dl0 uat04 sc0 oh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S27_M39_213.wav|3|TW|a03 k0 ua01 g0 i02 ph0 iunn03 sc0 ah02 , o07 k0 it04 b0 e02 tsc0 o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S28_M39_169.wav|3|TW|it08 tsc0 ang03 h0 innh03 m0 iann07 k0 io01 , an02 sc0 o02 t0 iah03 , iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S27_M39_061.wav|3|TW|kh0 ia07 k0 i07 tsch0 ia01 , o07 b0 i02 t0 uan07 o03 ts0 oo03 b0 ieng01 at04 , u01 e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S28_M39_053.wav|3|TW|h0 it08 k0 ui01 ph0 inn02 tsh0 ai01 h0 un05 , a07 k0 iam07 th0 ioh08 t0 oong07 , un01 h0 i01 h0 e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_251.wav|3|TW|ng02 k0 u07 g0 ng03 k0 u07 , iah02 uai07 g0 uai07 tsc0 iau02 u01 k0 ang05 k0 u03 oh02 , it04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M39/S26_M39_242.wav|3|TW|tsc0 iah02 n0 inn07 , ui02 s0 ue07 au02 h0 e02 t0 i03 t0 iann02 , ang05 sc0 a03 sc0 un01 dl0 ah08 , ah02 k0 enn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S18_M13_289.wav|4|TW|t0 ng07 sc0 iu07 , in02 t0 ieng03 tsc0 e01 ts0 inn07 , au01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S24_M13_092.wav|4|TW|djz0 i03 h0 u03 , at08 p0 o01 p0 ieng01 p0 ap04 , i01 ts0 iang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S29_M13_208.wav|4|TW|k0 oong07 iu02 tsc0 ua03 ts0 o07 b0 oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S17_M13_228.wav|4|TW|sc0 im07 k0 i01 , ieen03 p0 i07 dl0 ieng07 , a03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S18_M13_046.wav|4|TW|k0 uan07 ts0 at04 , e03 b0 oong01 s0 uai03 kh0 iann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S18_M13_332.wav|4|TW|ph0 ainn01 p0 ak08 t0 oo02 , ak04 tsh0 ak08 tsh0 oong07 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S19_M13_071.wav|4|TW|tsc0 ieen02 t0 iunn05 , e02 b0 iang02 tsch0 iann01 sc0 au02 , u02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S22_M13_258.wav|4|TW|t0 e03 dl0 i01 s0 u01 , ieng07 ph0 im02 sc0 oo01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S20_M13_158.wav|4|TW|tsc0 in01 ts0 ook04 , oo02 k0 ioong01 h0 ann01 , annh04 m0 im07 m0 iann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S23_M13_216.wav|4|TW|h0 uann07 th0 au07 h0 i01 b0 in07 , uan07 th0 ui07 t0 ang02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S16_M13_131.wav|4|TW|s0 e07 ts0 oong01 , an07 dl0 it04 t0 oo02 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S29_M13_002.wav|4|TW|k0 im07 sc0 ieng07 p0 ang02 b0 e03 k0 i02 dl0 au03 p0 e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S17_M13_310.wav|4|TW|ioong03 h0 at04 , it08 au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S19_M13_261.wav|4|TW|th0 au02 b0 ue02 , o07 b0 uann02 s0 ieen07 t0 uan01 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M13/S17_M13_343.wav|4|TW|k0 ieng02 t0 ioong07 , ang01 dl0 i01 ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S05_M16_264.wav|5|TW|s0 ann07 tsh0 un01 , ook08 k0 io02 sc0 ioong07 , am05 dl0 ook08 th0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S23_M16_059.wav|5|TW|kh0 iang07 i02 , am07 sc0 ui05 dl0 iau01 s0 iek08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S28_M16_201.wav|5|TW|dl0 i01 kh0 i02 b0 e01 k0 ua01 ts0 ut04 b0 i02 , ng01 t0 ai05 dl0 o02 , unna07 ts0 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S22_M16_292.wav|5|TW|h0 ieng07 b0 un05 , u03 s0 uann01 k0 ih02 , i02 th0 ang07 kh0 e07 , o05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S13_M16_227.wav|5|TW|h0 ieng07 k0 ook08 dl0 oo07 , in07 sc0 ieen07 t0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S28_M16_080.wav|5|TW|ts0 u03 ieng07 , i03 ang05 sc0 ang05 oong01 , iunn03 sc0 e02 dl0 ue03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S19_M16_306.wav|5|TW|t0 am07 ue01 , io07 h0 u03 sc0 ue01 tsh0 ai01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S23_M16_288.wav|5|TW|u05 ts0 o07 , ai03 g0 ieen07 i02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S18_M16_151.wav|5|TW|b0 u01 th0 e02 , iu02 tsc0 i02 kh0 uann02 , ueh03 p0 it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S28_M16_009.wav|5|TW|tsc0 it08 k0 ieng07 t0 iam02 sc0 i03 s0 ng03 dl0 ang07 th0 au05 , iu07 sc0 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S10_M16_293.wav|5|TW|dl0 o07 t0 oong07 kh0 e01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S23_M16_111.wav|5|TW|g0 iah03 th0 au05 , e07 s0 an02 iah03 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S16_M16_237.wav|5|TW|dl0 ap08 t0 e02 , in07 tsc0 i01 dl0 uan07 , u03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S21_M16_118.wav|5|TW|ts0 ui01 th0 oo02 , u03 p0 iap08 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M16/S17_M16_085.wav|5|TW|k0 uah02 b0 ah04 , oong07 h0 iu01 sc0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_209.wav|6|TW|t0 o07 tsc0 ieng07 h0 iann01 , in07 djz0 ieng07 sc0 ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_146.wav|6|TW|sc0 iunn03 sc0 i07 o07 , it08 h0 iu07 p0 uan05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_119.wav|6|TW|sc0 in07 kh0 ia07 p0 eh03 b0 e02 , un01 g0 a07 oo07 ts0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_230.wav|6|TW|tsch0 i07 tsc0 ieng05 ui07 dl0 am01 , ieng07 k0 ua01 tsc0 oong01 g0 au02 k0 o02 au03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_017.wav|6|TW|dl0 u01 djz0 in05 oo02 k0 u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_015.wav|6|TW|dl0 oo03 ts0 ui01 tsc0 ieng05 , i01 th0 a07 dl0 inn02 m0 ir01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_043.wav|6|TW|inn01 th0 ieng05 , oo03 au02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_294.wav|6|TW|ts0 un07 t0 iann07 , am07 dl0 ieng03 sc0 ook04 iu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_167.wav|6|TW|t0 am03 ts0 ui01 h0 o07 p0 inn07 tsc0 ieng07 tsch0 im07 tsch0 im01 , uai07 h0 iam03 dl0 i01 dl0 ann07 m0 ann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_172.wav|6|TW|t0 an01 th0 ai03 dl0 i01 ui01 ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_162.wav|6|TW|t0 ai03 k0 ah02 kh0 e07 p0 inn01 , oo07 h0 enn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_288.wav|6|TW|ts0 uat08 tsc0 ieng07 ph0 ue01 , am07 dl0 oong07 b0 oong03 oong07 h0 io05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_075.wav|6|TW|p0 ieng07 h0 uan05 it04 djz0 i01 tsc0 ah01 kh0 at08 t0 inn05 tsc0 i01 , e03 b0 ann03 dl0 u01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_220.wav|6|TW|ts0 au01 b0 i07 a07 k0 i01 p0 ai01 , iu02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M52/S30_M52_252.wav|6|TW|tsc0 i02 b0 ieng07 k0 ah02 tsh0 un07 k0 iau01 , ieen07 k0 ioong05 k0 u01 in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S23_M01_218.wav|7|TW|ioong07 ieen01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S22_M01_255.wav|7|TW|s0 u01 ang05 dl0 in01 , ai05 ph0 ook08 p0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S20_M01_001.wav|7|TW|dl0 am07 sc0 ieng03 , un01 p0 i03 sc0 iau01 ph0 ieet04 ph0 im07 , ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S17_M01_018.wav|7|TW|sc0 im07 s0 ng01 , in07 sc0 oong01 th0 iu07 , oo07 djz0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S23_M01_249.wav|7|TW|sc0 io01 p0 ieen07 , iook04 dl0 ue07 iunn03 h0 oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S22_M01_038.wav|7|TW|dl0 oong07 dl0 im05 , ieng02 ph0 iann02 tsch0 an01 , oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S20_M01_108.wav|7|TW|u07 i07 ts0 un07 b0 oong01 , uan07 tsh0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S27_M01_220.wav|7|TW|iau02 h0 u01 , ap04 ts0 ai02 ts0 inn07 tsh0 inn03 m0 ann02 , u01 ai07 m0 u01 t0 io01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S19_M01_270.wav|7|TW|h0 o07 h0 o02 , ai07 dl0 am05 h0 ah02 , im07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S26_M01_157.wav|7|TW|e03 tsh0 oong01 , iau01 dl0 uan01 ui07 tsc0 i02 g0 ai07 iann07 k0 iah02 k0 ai02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S20_M01_077.wav|7|TW|j0 u01 sc0 iunn03 j0 u01 k0 iek08 sc0 im01 , ieng07 p0 oo03 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S22_M01_018.wav|7|TW|t0 i07 th0 au05 , ai03 dl0 iau01 sc0 iunn03 , im07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S18_M01_283.wav|7|TW|th0 ng07 tsc0 ieng02 , ia02 sc0 oh03 ue02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M01/S18_M01_176.wav|7|TW|dl0 iu07 s0 an02 , eh02 t0 au03 s0 ieng01 , it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S23_F52_191.wav|8|TW|sc0 io07 ai01 , i07 h0 ue07 k0 au03 h0 iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S26_F52_250.wav|8|TW|j0 uah03 th0 inn01 , i05 i03 sc0 uann07 , ieng02 t0 uann02 s0 ue01 t0 im07 , enn01 kh0 iam01 h0 iam01 k0 ih02 tsh0 ih04 , oong07 sc0 ieng02 sc0 i03 sc0 it08 sc0 uan01 , iang01 iu07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S27_F52_122.wav|8|TW|e02 b0 a03 k0 au07 eh03 dl0 ai07 th0 o02 dl0 iam02 ts0 in07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S24_F52_284.wav|8|TW|dl0 ang07 ioong03 , au05 sc0 iunn03 g0 inn03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S27_F52_083.wav|8|TW|iek04 i03 it08 tsc0 in07 , iam07 sc0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S27_F52_170.wav|8|TW|dl0 i01 oo02 kh0 am01 k0 i03 sc0 iau01 t0 ang01 k0 ieng03 , ah02 tsch0 au02 k0 au03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S27_F52_189.wav|8|TW|dl0 i01 ieen02 b0 iau02 , iunn07 sc0 ua01 sc0 e02 , i01 g0 ia01 oong07 th0 o03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S22_F52_295.wav|8|TW|h0 ioong07 sc0 iu02 , ai03 t0 ieen07 g0 in05 djz0 ioong07 , oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S25_F52_009.wav|8|TW|g0 ua01 ng01 h0 e02 , i02 b0 uann02 kh0 ieen03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S25_F52_027.wav|8|TW|u02 ts0 innh03 iann07 m0 in07 k0 ainn01 , iah08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S28_F52_139.wav|8|TW|an07 k0 ann01 n0 o02 , it04 kh0 ua01 tsc0 in07 k0 ui02 eh02 , oong01 sc0 oo07 s0 inna03 , inna07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S24_F52_160.wav|8|TW|djz0 in07 s0 u03 h0 ieng07 tsc0 ieng02 k0 iook08 , am07 s0 at08 p0 o05 p0 it04 , iann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S28_F52_156.wav|8|TW|eh02 t0 un03 kh0 i07 iann03 sc0 iann07 t0 a03 t0 ui02 , i01 in01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S28_F52_105.wav|8|TW|dl0 i01 ang01 th0 ioh08 , io01 ua01 t0 innh03 , iann07 sc0 o03 kh0 ai07 iah02 , ak08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F52/S28_F52_218.wav|8|TW|t0 o03 s0 ng02 k0 oong02 , o02 ts0 in07 djz0 ieng05 tsc0 oo03 , ann03 h0 i03 e07 m0 ai02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S16_F01_026.wav|9|TW|ts0 au02 th0 au05 , ng07 h0 u01 kh0 ue07 , ng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S18_F01_174.wav|9|TW|dl0 au03 dl0 ang07 p0 an01 , uat08 h0 enn07 p0 i03 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S90_F01_267.wav|9|TW|ts0 enn01 a01 kh0 iann05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S93_F01_214.wav|9|TW|dl0 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S18_F01_318.wav|9|TW|dl0 ai03 kh0 o01 , unna03 n0 ieen02 sc0 ieen07 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S18_F01_305.wav|9|TW|o01 b0 e05 t0 e05 , i07 i07 t0 iek08 , iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S90_F01_420.wav|9|TW|t0 ai07 t0 ang01 , ng07 th0 iunn02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S17_F01_298.wav|9|TW|h0 o01 sc0 im01 , oo07 h0 ak04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S16_F01_032.wav|9|TW|tsc0 iu01 dl0 au03 ui02 , ai07 t0 u02 th0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S18_F01_257.wav|9|TW|dl0 im07 tsc0 ioong01 , e02 ts0 ioong07 dl0 it04 , ioong05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S17_F01_097.wav|9|TW|p0 i07 ai01 , oong03 k0 ak04 h0 iann02 , in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S19_F01_285.wav|9|TW|k0 au07 t0 am05 , o03 p0 uan07 dl0 iu07 , ook08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S10_F01_126.wav|9|TW|g0 ua03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S90_F01_487.wav|9|TW|iu02 dl0 e03 , it04 t0 oong07 tsc0 ng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F01/S05_F01_039.wav|9|TW|h0 oo01 th0 au07 s0 uann01 , ieng07 sc0 ai07 t0 ieng07 , ng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_098.wav|10|TW|inn05 tsc0 oo01 , inn02 t0 inna07 sc0 ue02 m0 ue01 , ia07 ts0 am07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_253.wav|10|TW|oong02 kh0 it08 tsch0 iam01 t0 ann01 s0 an02 , iann07 h0 ieen03 sc0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_054.wav|10|TW|djz0 ip04 dl0 ai05 , uan01 g0 ang03 b0 ioong01 t0 iunn03 , i01 sc0 i01 dl0 ai01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_029.wav|10|TW|kh0 o01 dl0 ieen05 , it04 h0 io01 oo07 , innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_031.wav|10|TW|m0 ann01 m0 annh04 , iann01 tsch0 i01 dl0 o01 ioong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_219.wav|10|TW|ai02 s0 iah03 , iann01 tsc0 innh04 sc0 innh03 m0 iann07 , e03 m0 o07 k0 iau05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_038.wav|10|TW|s0 ang02 h0 oo07 , ann01 m0 annh04 m0 o01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_013.wav|10|TW|sc0 io01 tsc0 ia02 , iann01 tsch0 i01 dl0 oo03 h0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_205.wav|10|TW|b0 ue03 t0 ang03 , iah03 tsc0 iann01 sc0 innh04 m0 innh03 , iann07 m0 ua01 k0 e02 , iann07 g0 ai07 b0 i01 th0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F37/S20_F37_018.wav|10|TW|b0 e02 h0 ainn07 t0 ioh08 o02 , it04 ts0 ai02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S21_F45_224.wav|11|TW|tsc0 iu03 k0 in07 , ah02 t0 au07 k0 ioong07 enn07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S13_F45_254.wav|11|TW|sc0 ieng07 k0 oong07 oo07 dl0 ua07 , oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S10_F45_442.wav|11|TW|dl0 oo07 s0 an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S04_F45_029.wav|11|TW|k0 am01 u07 , uan07 s0 ua07 au01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S14_F45_168.wav|11|TW|tsc0 iah03 ts0 ui01 k0 iau02 , o07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S28_F45_180.wav|11|TW|dl0 in01 anni02 o02 m0 i03 k0 ia07 t0 e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S10_F45_226.wav|11|TW|dl0 ioong07 ts0 uann05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S08_F45_091.wav|11|TW|au02 kh0 o07 , o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S05_F45_224.wav|11|TW|ang02 k0 ook08 , ioong01 k0 iek08 t0 io05 , ook08 t0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S05_F45_165.wav|11|TW|t0 ai07 iu01 , u02 sc0 ai03 h0 ak08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S21_F45_151.wav|11|TW|kh0 in07 g0 in05 , io01 sc0 i07 b0 e01 ts0 ut04 , ut04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S10_F45_066.wav|11|TW|k0 io07 th0 au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S24_F45_274.wav|11|TW|k0 iu01 dl0 ioong05 , ia01 sc0 it04 tsc0 ua03 ts0 i07 djz0 iunn03 , au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S21_F45_193.wav|11|TW|p0 ieng07 g0 uan05 , innau01 n0 i01 tsch0 ak08 t0 io02 au07 , io02 tsch0 in07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F45/S20_F45_130.wav|11|TW|tsc0 inn07 sc0 iann01 dl0 oo03 u07 , ioong01 s0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S16_F43_217.wav|12|TW|ts0 o03 h0 ieng05 , ia07 tsch0 a07 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S11_F43_264.wav|12|TW|p0 ak08 t0 un03 dl0 oo07 , in02 tsc0 ua02 h0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S21_F43_212.wav|12|TW|th0 oo07 kh0 a01 , au07 k0 e01 ieen01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S21_F43_210.wav|12|TW|th0 ieen07 h0 a07 , ieen01 h0 i07 b0 iann03 k0 in03 , in01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S28_F43_118.wav|12|TW|ai02 p0 iook08 , o07 ai07 tsc0 uan01 b0 au01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S19_F43_030.wav|12|TW|ts0 uan07 tsc0 ieng03 , iu01 k0 ieen03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S14_F43_045.wav|12|TW|b0 an01 ts0 o01 an01 , ieng07 b0 ieng02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S05_F43_044.wav|12|TW|tsch0 iu03 k0 ook04 , ieng07 sc0 o07 ak04 , uan02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S10_F43_358.wav|12|TW|h0 o07 p0 ieng07 kh0 e01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S17_F43_215.wav|12|TW|ang07 b0 iek04 , ieen07 dl0 ang01 dl0 uann05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S33_F43_089.wav|12|TW|g0 ua01 ai03 e02 ann01 , ann02 dl0 ioh03 t0 au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S23_F43_260.wav|12|TW|k0 ang03 m0 inna05 , it08 sc0 e02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S10_F43_384.wav|12|TW|k0 ook08 dl0 ip04 t0 ai07 o07 kh0 ak04 h0 au02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F43/S30_F43_295.wav|12|TW|ts0 un07 t0 ieng02 i01 ang02 dl0 am07 s0 u01 , an03 dl0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_112.wav|13|TW|h0 ai01 h0 ai02 , in07 djz0 ieng01 sc0 uann02 , ua03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_045.wav|13|TW|t0 uan03 h0 un07 n0 inna02 , ieng07 tsc0 iann07 sc0 ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_134.wav|13|TW|dl0 ang07 kh0 eh04 , iu05 ai03 k0 uann01 , oo07 dl0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_052.wav|13|TW|h0 uai07 dl0 iam07 , oo02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_016.wav|13|TW|ts0 ui01 ph0 uah04 , oh03 dl0 e07 t0 ainn01 , iu07 ph0 ue05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_191.wav|13|TW|b0 ue03 s0 ai02 , iah03 tsc0 iann01 sc0 innh04 m0 iann07 , oong01 th0 oo02 k0 ieen03 p0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_152.wav|13|TW|k0 ng01 t0 ang07 h0 ue01 , o07 th0 ue07 h0 ioong01 h0 iu01 , a07 tsc0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_154.wav|13|TW|tsch0 ieng07 tsh0 un07 n0 inna02 , ieng01 dl0 oong07 s0 u02 ts0 unni07 , ui03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_243.wav|13|TW|oong02 kh0 iam01 ann01 t0 an02 s0 iann07 , ieen03 h0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_110.wav|13|TW|kh0 o01 dl0 ieen05 , ang07 ue07 dl0 ioong01 h0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_081.wav|13|TW|ieng05 tsc0 ue02 , oo03 k0 ang05 dl0 iann01 dl0 i01 , iann07 tsch0 ua01 dl0 oong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M44/S20_M44_030.wav|13|TW|kh0 o01 dl0 ieen05 , uan07 dl0 ue01 h0 ai02 , ue03 ts0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_194.wav|14|TW|b0 e03 s0 ai02 , iah03 tsc0 iann01 sc0 innh04 m0 iann07 , ua01 ueh02 k0 iann01 , ieen03 g0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_076.wav|14|TW|dl0 i01 g0 ua01 tsc0 ieng07 in03 tsc0 i01 o07 dl0 ai01 b0 ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_173.wav|14|TW|k0 a03 g0 ua01 k0 io02 k0 e02 th0 ieng07 tsch0 ia01 , o01 t0 it04 tsc0 uann02 kh0 oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_214.wav|14|TW|u02 ts0 iann01 innh04 , ai03 sc0 i03 m0 ua01 , iunn03 t0 ai07 tsc0 u01 , ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_131.wav|14|TW|ieng01 t0 enn07 , ieng01 tsh0 ang01 t0 oo01 , uan07 k0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_118.wav|14|TW|ang01 th0 in03 , u01 djz0 i01 s0 ah02 , iann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_217.wav|14|TW|ai02 s0 iah03 , iann02 tsc0 ue01 sc0 i02 , ua01 k0 in07 tsc0 o07 , iau05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_157.wav|14|TW|tsc0 ieng07 dl0 ui07 , oo07 tsh0 uan05 dl0 e01 , ui03 b0 un07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_159.wav|14|TW|b0 u01 dl0 u02 , iook08 tsc0 ook04 h0 ang03 , ai01 dl0 ioh02 s0 ue03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_158.wav|14|TW|tsc0 in01 ts0 ook04 , oo02 k0 ioong01 h0 ann01 , annh04 m0 im07 m0 iann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_025.wav|14|TW|s0 oo02 dl0 an05 , io01 sc0 ia02 tsc0 e02 , ut08 b0 e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_177.wav|14|TW|g0 ua01 sc0 iunn03 b0 ueh04 , io02 k0 e02 k0 ieng07 th0 ia01 tsch0 ang07 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M24/S20_M24_015.wav|14|TW|tsh0 un07 th0 inn01 , ann01 n0 iah02 inn07 , uann05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S18_F17_247.wav|15|TW|k0 i03 djz0 it08 , iau07 t0 ue03 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S28_F17_093.wav|15|TW|it04 h0 ang07 uan02 dl0 oong02 tsh0 o07 k0 o07 , o01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S08_F17_059.wav|15|TW|h0 i03 uat08 , au07 h0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S27_F17_175.wav|15|TW|t0 ui02 tsc0 ia07 k0 au02 t0 am03 ts0 ui02 , ua03 ng07 g0 oo03 h0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S28_F17_031.wav|15|TW|dl0 i01 kh0 i02 k0 a03 g0 ua01 b0 e01 tsc0 it08 iu01 tsc0 au01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S29_F17_195.wav|15|TW|t0 uan03 tsc0 ieng07 th0 ieen07 k0 i07 sc0 im07 k0 uann07 iann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S29_F17_133.wav|15|TW|dl0 i01 sc0 ieng02 b0 ang03 b0 ieng07 g0 ueh03 dl0 u01 djz0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S22_F17_132.wav|15|TW|t0 iam02 th0 au07 k0 e01 , ip08 tsc0 iau03 tsc0 iu01 , e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S17_F17_049.wav|15|TW|ook04 k0 in02 , im01 tsch0 ieen03 sc0 ue01 , ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S17_F17_237.wav|15|TW|sc0 iunn03 h0 uat04 , ieng07 sc0 ieng05 p0 oo02 , ua02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S20_F17_046.wav|15|TW|dl0 i03 p0 ieet08 , uat04 ai07 g0 io03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S20_F17_087.wav|15|TW|ieng05 p0 ui07 , ioong01 t0 iek04 sc0 o01 kh0 oo02 , o01 p0 am07 t0 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S21_F17_158.wav|15|TW|s0 enn07 iau07 , im03 sc0 an02 k0 au02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S26_F17_005.wav|15|TW|dl0 i01 k0 am07 ts0 ai01 , i02 io01 kh0 ioong02 , oong01 sc0 uan07 t0 ap08 h0 ioong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F17/S27_F17_062.wav|15|TW|ts0 oong01 th0 oong02 , im07 o02 djz0 ai03 , ai03 ai02 ts0 ieen07 t0 ap08 s0 ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S26_F47_014.wav|16|TW|t0 ann01 k0 oo02 s0 un05 , am01 k0 ioong01 ioh08 , im07 oong07 h0 oong07 t0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S16_F47_004.wav|16|TW|tsc0 i01 tsh0 ui02 t0 a01 , oong02 k0 ieen03 h0 uan07 , u03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S21_F47_028.wav|16|TW|djz0 it04 g0 uat04 th0 am05 , an07 tsh0 ap08 k0 uann02 ieng02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S19_F47_142.wav|16|TW|ts0 oong02 dl0 e07 , au07 k0 ioh03 un02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S18_F47_037.wav|16|TW|k0 am01 k0 ah04 , o07 b0 ieng02 tsc0 ioong05 sc0 au02 , oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S15_F47_269.wav|16|TW|dl0 iook04 h0 uat08 ts0 uan07 s0 u01 , ioong03 t0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S19_F47_288.wav|16|TW|k0 ioong03 sc0 iek04 , u03 s0 oo03 k0 o07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S15_F47_263.wav|16|TW|k0 iam01 h0 oong01 , ieng03 t0 ook08 kh0 ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S23_F47_316.wav|16|TW|t0 au03 tsh0 ai03 , an07 i05 enn07 h0 ue07 tsc0 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S20_F47_082.wav|16|TW|k0 oo02 h0 ioong01 , ieet04 ia01 dl0 im07 tsch0 ai03 , ann01 sc0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S15_F47_243.wav|16|TW|h0 ieen02 h0 uat04 , ai07 t0 in07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S24_F47_301.wav|16|TW|dl0 ang07 ph0 iah04 , ioong03 sc0 i01 kh0 ann02 m0 iunn03 , ai02 tsc0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S17_F47_087.wav|16|TW|dl0 iah03 ts0 o03 , oong07 h0 o07 t0 ua01 , ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S20_F47_037.wav|16|TW|an07 dl0 oong07 b0 ieng07 , an07 tsc0 oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F47/S24_F47_022.wav|16|TW|i07 k0 ook04 t0 iu03 sc0 iau01 , e07 dl0 ue02 k0 ip04 h0 i03 , e02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_173.wav|17|TW|e02 t0 ui01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S16_F22_009.wav|17|TW|tsc0 ip04 tsc0 it04 ue02 , iau03 k0 uai01 sc0 oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_306.wav|17|TW|h0 oong07 k0 ieen03 , ieng02 tsc0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S16_F22_195.wav|17|TW|th0 i02 th0 au07 t0 iam03 , oong01 th0 au05 th0 ui01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_252.wav|17|TW|h0 uat08 tsc0 iek04 , oong07 th0 uann05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_023.wav|17|TW|t0 e03 ts0 oo01 , u07 g0 ai01 s0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_268.wav|17|TW|k0 uann07 sc0 i01 , ioong03 t0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_003.wav|17|TW|s0 eh02 iu02 tsch0 ue02 , iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_096.wav|17|TW|k0 uan01 sc0 iau03 , iek04 h0 im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S16_F22_281.wav|17|TW|dl0 ap08 dl0 oh08 , iau02 k0 iau02 k0 io03 k0 ueh03 , oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S11_F22_025.wav|17|TW|ioong07 t0 oo07 dl0 oong07 , oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S16_F22_260.wav|17|TW|ts0 ui01 b0 in07 , uan07 ts0 un05 b0 au03 , un02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S16_F22_157.wav|17|TW|p0 oo02 k0 i01 , ut08 p0 ai02 k0 oh02 , uann07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S11_F22_198.wav|17|TW|iu07 tsc0 e01 k0 am07 , iann07 dl0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F22/S15_F22_027.wav|17|TW|th0 iu07 s0 ue03 , oong01 kh0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_092.wav|18|TW|dl0 an07 b0 oong07 , in05 uann07 ieng02 djz0 au01 , iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_053.wav|18|TW|k0 u03 ph0 ue07 sc0 iunn01 , iu07 dl0 oong03 dl0 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_156.wav|18|TW|sc0 io07 b0 ah02 ts0 ang03 , e07 k0 ia07 am07 , ook08 tsch0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_034.wav|18|TW|i01 dl0 uan01 im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_230.wav|18|TW|k0 iu01 iam01 t0 iu02 k0 a07 , am07 k0 ieen03 dl0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_251.wav|18|TW|oong02 kh0 onno01 ng0 iam01 t0 iu02 k0 ak08 , a07 h0 ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_116.wav|18|TW|g0 uan01 ai01 ts0 ah02 , unna01 dl0 in07 m0 un07 b0 oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_110.wav|18|TW|kh0 o01 dl0 ieen05 , ang07 ue07 dl0 ioong01 h0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_063.wav|18|TW|dl0 iu07 dl0 oong07 , ua07 iann01 k0 in02 sc0 e03 , oong01 tsc0 an05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_247.wav|18|TW|oong02 kh0 ann07 s0 iam01 t0 ann01 s0 ioong07 , oong01 t0 iu07 k0 ieng07 dl0 ang07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_127.wav|18|TW|kh0 o01 e01 , oong02 oong07 b0 in07 h0 ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_031.wav|18|TW|m0 ann01 m0 annh04 , iann01 tsch0 i01 dl0 o01 ioong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F59/S20_F59_021.wav|18|TW|p0 ue07 t0 i03 h0 oong07 t0 ioong01 , io01 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_143.wav|19|TW|ts0 u07 b0 io01 sc0 im01 , ieen01 b0 it08 sc0 i03 tsc0 iam07 , uann02 tsc0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_175.wav|19|TW|g0 ua01 sc0 iunn03 b0 ueh04 , io02 k0 ia01 tsch0 e07 , inn02 th0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_094.wav|19|TW|s0 ann07 n0 inn05 , ieng05 tsc0 ua01 ue02 g0 it04 ts0 oong01 in03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_004.wav|19|TW|sc0 i07 inna03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_117.wav|19|TW|ieng05 tsc0 iah03 , iah08 tsch0 iap08 tsch0 ang03 , ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_234.wav|19|TW|k0 iu01 sc0 i02 t0 iam01 s0 ann01 , o07 k0 ioong07 h0 ieen03 t0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_154.wav|19|TW|tsch0 ieng07 tsh0 un07 n0 inna02 , ieng01 dl0 oong07 s0 u02 ts0 unni07 , ui03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_170.wav|19|TW|th0 e02 g0 ua01 k0 io02 k0 e02 th0 ieng07 tsch0 ia01 , iann01 sc0 oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_237.wav|19|TW|k0 iu01 tsch0 it08 t0 iam01 k0 iu02 , ai01 kh0 uan07 s0 ieen03 t0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_116.wav|19|TW|g0 uan01 ai01 ts0 ah02 , unna01 dl0 in07 m0 un07 b0 oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_003.wav|19|TW|ieng05 tsc0 ieen02 , u02 ua01 ph0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_087.wav|19|TW|ieng05 p0 ui07 , ioong01 t0 iek04 sc0 o01 kh0 oo02 , o01 p0 am07 t0 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F62/S20_F62_187.wav|19|TW|ts0 ue02 h0 ue02 , iam03 g0 ueh02 h0 ng05 th0 i07 , an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S28_F50_042.wav|20|TW|dl0 i01 n0 ann01 ai02 s0 iah03 , u07 g0 ut08 g0 eh02 s0 ut08 in01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S21_F50_303.wav|20|TW|dl0 a03 h0 ioh08 , iek08 t0 ue01 enn07 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S27_F50_153.wav|20|TW|dl0 in01 ang07 anni02 dl0 o02 m0 i03 k0 ia07 t0 ap08 h0 ui02 t0 oo01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S31_F50_168.wav|20|TW|i02 kh0 oo03 h0 au07 th0 e01 k0 a03 , i07 k0 au07 oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S21_F50_331.wav|20|TW|k0 a07 kh0 im05 , ann07 n0 au05 t0 a07 , ieng03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S25_F50_155.wav|20|TW|g0 ua01 kh0 ah01 sc0 iunn03 m0 ann03 sc0 i03 dl0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S21_F50_218.wav|20|TW|t0 oh02 b0 in07 , iang07 dl0 i02 in07 , oo01 kh0 inna07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S28_F50_214.wav|20|TW|dl0 i01 k0 am01 u07 s0 ang07 a03 , i01 dl0 au02 k0 ann07 dl0 ang07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S32_F50_183.wav|20|TW|t0 ieen03 ai03 , e02 dl0 iau02 t0 e07 , oong01 o07 djz0 o01 p0 ue02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S30_F50_080.wav|20|TW|p0 un02 s0 o02 tsc0 ia01 , o07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S28_F50_051.wav|20|TW|dl0 i01 kh0 i02 b0 e01 tsc0 it04 k0 ua01 sc0 i02 sc0 iu02 ai07 , am03 dl0 am01 t0 it04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S21_F50_015.wav|20|TW|djz0 it04 th0 au05 , i02 sc0 a07 kh0 ue07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S25_F50_138.wav|20|TW|im01 u01 ai07 sc0 u01 , ua07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S28_F50_172.wav|20|TW|u02 tsh0 ai07 dl0 ah02 , ua03 k0 au02 g0 ang07 kh0 ue03 , o07 uat08 kh0 oo07 kh0 iam07 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F50/S21_F50_208.wav|20|TW|th0 ang07 g0 ua07 , i07 b0 o07 ph0 oo05 dl0 uan07 , ieen01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S11_F07_168.wav|21|TW|t0 ang07 h0 ai01 k0 e01 , am07 dl0 ai01 h0 e01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S11_F07_252.wav|21|TW|k0 o07 th0 ih02 dl0 oo07 , i01 b0 ut04 s0 uan01 k0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_288.wav|21|TW|t0 ai07 t0 ioong07 k0 ang02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_001.wav|21|TW|t0 ai07 p0 ak04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S05_F07_146.wav|21|TW|t0 ai07 dl0 am05 , oong01 oong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S11_F07_010.wav|21|TW|k0 a07 dl0 i01 kh0 u01 , uann07 k0 ieen07 t0 u01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S05_F07_080.wav|21|TW|g0 oo03 t0 iau07 k0 ang02 , in02 t0 ak08 p0 ng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S12_F07_009.wav|21|TW|n0 ann07 e07 , e05 kh0 a07 kh0 iu02 , ieng01 kh0 i07 tsch0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_067.wav|21|TW|dl0 am07 enn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_003.wav|21|TW|p0 ang07 k0 io05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_141.wav|21|TW|dl0 am07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S11_F07_047.wav|21|TW|tsch0 iah02 kh0 am02 k0 e01 , in02 tsc0 oong07 h0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_284.wav|21|TW|h0 uai07 t0 ioong07 sc0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S05_F07_019.wav|21|TW|m0 unna07 t0 au07 , ai03 t0 ieen07 th0 u02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F07/S10_F07_375.wav|21|TW|ook04 dl0 ng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_159.wav|22|TW|b0 u01 dl0 u02 , iook08 tsc0 ook04 h0 ang03 , ai01 dl0 ioh02 s0 ue03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_198.wav|22|TW|b0 e03 t0 ang03 , iah03 tsc0 ann01 s0 ua01 g0 ueh02 b0 iann01 th0 oong01 , oo02 k0 ieen03 p0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_074.wav|22|TW|dl0 au03 h0 iann01 , iann07 k0 iu01 tsc0 au05 dl0 ieng07 , oong01 sc0 iau07 k0 iann07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_187.wav|22|TW|ts0 ue02 h0 ue02 , iam03 g0 ueh02 h0 ng05 th0 i07 , an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_236.wav|22|TW|k0 iu01 tsch0 it08 t0 iam01 ai07 , am07 t0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_134.wav|22|TW|dl0 ang07 kh0 eh04 , iu05 ai03 k0 uann01 , oo07 dl0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_193.wav|22|TW|b0 ue03 s0 ai02 , iah03 tsc0 iann01 sc0 innh04 m0 e01 , i02 k0 ua01 tsc0 e02 , iann01 g0 ieen03 b0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_215.wav|22|TW|ai02 s0 iah03 , ann02 tsc0 in07 s0 o07 , iau05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_047.wav|22|TW|tsch0 it08 th0 o07 dl0 ang05 , ak04 ai02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_080.wav|22|TW|ioong01 h0 i07 , uan07 p0 ang07 dl0 i01 b0 iann07 , i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_140.wav|22|TW|sc0 im07 dl0 ai07 , ua07 k0 ai01 h0 o07 ph0 oong07 dl0 ua01 , inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_161.wav|22|TW|g0 ua01 b0 e02 k0 io02 tsch0 ia01 , ah01 kh0 e03 b0 ai02 s0 iah03 , ann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M35/S20_M35_219.wav|22|TW|ai02 s0 iah03 , iann01 tsc0 innh04 sc0 innh03 m0 iann07 , e03 m0 o07 k0 iau05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_064.wav|23|TW|ph0 ieen02 dl0 ang07 h0 iah02 ts0 e07 , ang03 b0 oo07 dl0 un07 ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_120.wav|23|TW|sc0 in07 n0 innu07 p0 i07 k0 ua01 , un01 g0 ann03 n0 ah02 ph0 ui07 kh0 im07 sc0 ai03 dl0 ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_255.wav|23|TW|tsc0 in07 ainn01 ph0 iu07 sc0 ue05 h0 iann07 , un07 k0 ang05 ts0 uan03 dl0 oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_217.wav|23|TW|ts0 ai02 h0 ue03 t0 ioong07 k0 ang01 dl0 oo07 , u07 j0 o07 h0 o02 k0 ai02 ts0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_057.wav|23|TW|p0 ang02 kh0 ui07 g0 ua01 iu02 tsch0 oong07 , in07 h0 io03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_122.wav|23|TW|sc0 ieng07 ts0 uan05 , un01 g0 ue02 ts0 unni07 ui02 ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_180.wav|23|TW|th0 ieen07 h0 a03 ieng03 t0 i03 sc0 an01 dl0 i03 in07 , ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_208.wav|23|TW|t0 ng03 s0 uann02 tsc0 ieng05 , in07 djz0 ieng07 sc0 uann02 kh0 au07 th0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_232.wav|23|TW|tsch0 i07 tsc0 ieng07 h0 oong07 enn05 m0 am01 , ieng07 k0 ieen02 tsc0 u02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_192.wav|23|TW|th0 inn07 sc0 iek08 tsc0 iam03 tsc0 iam03 k0 ng01 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_054.wav|23|TW|eh03 p0 oong02 k0 uann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_084.wav|23|TW|p0 ut08 p0 ieen03 an01 t0 ai07 th0 o07 , i01 b0 oo03 dl0 e03 h0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_291.wav|23|TW|ts0 ui02 ioong05 h0 am07 , in05 dl0 it04 djz0 uann02 i03 tsc0 u02 p0 in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_268.wav|23|TW|tsc0 ioong02 sc0 in07 h0 oo03 t0 ai07 ue02 , ieng07 k0 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M51/S30_M51_234.wav|23|TW|tsch0 i07 tsc0 ieng07 k0 ua01 , an01 k0 an01 t0 it04 u02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S05_F06_235.wav|24|TW|b0 ieng07 t0 at08 , o07 k0 ioong01 t0 ai07 , am05 t0 ai03 dl0 ak08 , u02 t0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S36_F06_189.wav|24|TW|tsch0 ia07 k0 oo01 t0 in07 , ut08 kh0 ioong05 k0 oong03 ang05 g0 enn07 dl0 enn07 , ak08 m0 ak04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S36_F06_125.wav|24|TW|tsc0 ieng07 sc0 im07 dl0 ang07 sc0 ioong07 sc0 im07 k0 ua01 , ue01 h0 u07 h0 oo07 k0 innu05 n0 in07 , uann03 p0 ieen01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S36_F06_234.wav|24|TW|t0 i07 kh0 a01 , e03 b0 ang02 t0 i03 uann07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S12_F06_094.wav|24|TW|kh0 a07 tsh0 ng01 , ai01 k0 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S09_F06_033.wav|24|TW|ts0 ai03 k0 au02 sc0 iek04 , ue03 p0 i07 sc0 u03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S09_F06_151.wav|24|TW|p0 iau01 sc0 io01 t0 i07 , oo01 ah02 dl0 ng07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S12_F06_038.wav|24|TW|io01 sc0 ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S09_F06_106.wav|24|TW|sc0 i02 ts0 ap08 , o03 ts0 ui01 ts0 oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S38_F06_189.wav|24|TW|sc0 im07 ang05 inn07 dl0 it08 , ieen02 t0 oo01 b0 i07 p0 uat08 kh0 ieng07 b0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S38_F06_056.wav|24|TW|p0 ang02 dl0 i01 ts0 u03 ue01 p0 u07 , oo03 s0 ieng07 b0 ua01 tsc0 iah03 k0 oo01 , oong02 tsc0 ue02 kh0 iah03 t0 oo02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S36_F06_143.wav|24|TW|ts0 ue02 ieet04 am07 tsc0 oong07 an07 ts0 ook04 , ieng07 h0 ah02 g0 ieen07 p0 a07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S07_F06_020.wav|24|TW|th0 ieen07 k0 au01 dl0 ieet08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S05_F06_282.wav|24|TW|p0 o01 t0 ang01 , ook08 k0 io02 sc0 im07 , inn01 tsch0 ook08 kh0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F06/S05_F06_034.wav|24|TW|un07 ieng07 , ieen07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S33_F24_110.wav|25|TW|dl0 i01 enn01 n0 am01 , e03 k0 iunn07 b0 ue02 sc0 au05 k0 e07 th0 in02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S32_F24_229.wav|25|TW|h0 it08 ieng07 k0 ann07 s0 iam02 eh02 , iann02 t0 iook08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S18_F24_134.wav|25|TW|dl0 ai03 tsh0 ut08 h0 ueh04 , ia02 k0 au01 ang02 p0 ueh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S30_F24_056.wav|25|TW|p0 ang02 g0 ua01 kh0 i02 p0 ue01 , oong07 h0 in07 t0 ai07 dl0 ai07 dl0 i02 kh0 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S30_F24_224.wav|25|TW|tsch0 i07 sc0 im07 t0 an01 b0 o07 am01 , ia07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S26_F24_143.wav|25|TW|it08 tsc0 ui01 oo07 s0 innu05 k0 ia03 n0 i03 , oo03 kh0 inn01 t0 an01 dl0 ia01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S30_F24_111.wav|25|TW|sc0 im07 ph0 o02 tsh0 ui03 iann01 sc0 ua01 , i03 g0 i01 sc0 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S22_F24_221.wav|25|TW|t0 e07 t0 iam02 ieng01 , oong02 k0 iu01 k0 iah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S19_F24_143.wav|25|TW|ts0 ui01 e07 , i07 k0 oong07 tsch0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S31_F24_103.wav|25|TW|dl0 i01 k0 a03 tsc0 it08 t0 iunn07 ts0 ua01 t0 ui02 o02 , ui02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S17_F24_145.wav|25|TW|b0 e07 h0 iek08 , o01 th0 e03 ts0 au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S25_F24_023.wav|25|TW|o03 t0 i03 sc0 im01 sc0 ieng07 h0 o07 , o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S29_F24_242.wav|25|TW|k0 ua07 tsch0 iunn02 b0 oong07 m0 inna03 tsc0 i07 t0 oo07 g0 ak04 sc0 iann07 h0 iang01 kh0 i02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S38_F24_290.wav|25|TW|sc0 ioong07 sc0 im07 kh0 ang09 p0 ang02 , io02 tsch0 am07 t0 in07 djz0 ieng01 sc0 ioong07 , im07 sc0 uan07 sc0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F24/S21_F24_245.wav|25|TW|djz0 in07 s0 e03 , o01 p0 i07 u01 , ih03 tsch0 u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S27_F14_103.wav|26|TW|dl0 in01 dl0 au03 p0 e07 , an01 t0 eh04 dl0 o03 , e02 t0 ai07 b0 ua03 dl0 i01 tsh0 ng01 dl0 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S22_F14_310.wav|26|TW|ioong01 sc0 iek04 , ioong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S20_F14_010.wav|26|TW|k0 iann07 ts0 un07 dl0 ang05 , un07 ieng07 s0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S24_F14_163.wav|26|TW|djz0 in07 s0 ui07 , am07 s0 at08 p0 i01 tsc0 it04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S27_F14_109.wav|26|TW|ieng03 tsch0 it08 h0 inna01 n0 oo02 ann07 t0 iann07 o01 , uann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S19_F14_158.wav|26|TW|t0 ua02 h0 a03 , au01 i02 k0 e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S26_F14_207.wav|26|TW|g0 ua01 k0 oong07 kh0 o03 , ann03 n0 ia01 sc0 o01 h0 o03 t0 ai02 i02 s0 uann02 , ieen03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S33_F14_146.wav|26|TW|k0 a03 sc0 i01 n0 innau07 i03 t0 eh02 t0 oo07 th0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S18_F14_364.wav|26|TW|sc0 ieng07 h0 au07 , in07 kh0 ang01 s0 ua03 , un07 t0 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S21_F14_293.wav|26|TW|ts0 oong01 p0 oo07 , au01 dl0 in05 t0 enn07 , oong05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S17_F14_294.wav|26|TW|g0 uan03 b0 oong07 , inn03 h0 e07 p0 oh03 ui05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S36_F14_013.wav|26|TW|onno01 ah01 m0 iann07 kh0 o01 , oo07 k0 ai07 h0 ioong07 dl0 iann05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S17_F14_182.wav|26|TW|k0 am01 tsch0 iook04 , ieng07 h0 oong01 ts0 iah02 , ua02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S27_F14_095.wav|26|TW|b0 in03 tsc0 ieng05 , an01 dl0 oo01 s0 u01 t0 ioh08 t0 un03 , e05 oong01 b0 o07 t0 uat08 , oo07 dl0 ai01 b0 uat04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F14/S37_F14_258.wav|26|TW|b0 o07 tsc0 ieng05 ang05 dl0 in07 , ieng07 djz0 i07 tsc0 u01 b0 in07 , u07 dl0 ook04 djz0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_170.wav|27|TW|p0 ang07 s0 ann01 , in07 sc0 iek04 sc0 iann07 , au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_244.wav|27|TW|p0 ieng07 h0 oong01 , ieng01 tsc0 oo03 s0 u02 , e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_283.wav|27|TW|m0 inn07 m0 inn07 m0 annuh02 m0 annuh04 , ap04 ts0 uainn07 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_277.wav|27|TW|k0 ieet08 tsc0 inn01 , oo07 h0 iann01 sc0 ui01 , ui03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_276.wav|27|TW|kh0 uan01 sc0 iek04 , iu07 h0 iu07 h0 io03 k0 u07 , an02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_015.wav|27|TW|kh0 ann07 e01 , ang02 iau01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_095.wav|27|TW|t0 ng07 k0 un05 , iu03 kh0 eh02 t0 eh04 t0 u02 , ia07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_083.wav|27|TW|ph0 ue02 k0 iann07 , ieet04 djz0 oo07 t0 oo07 , ak08 th0 u03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_100.wav|27|TW|tsh0 oo07 p0 oo03 , i07 k0 un02 ts0 ioh03 , iau07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_309.wav|27|TW|b0 o07 k0 iam07 b0 o07 tsc0 iann03 , ai07 ts0 an02 s0 u01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_278.wav|27|TW|k0 ng07 k0 ut08 , iek08 ph0 iek08 dl0 o01 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_186.wav|27|TW|k0 iann02 kh0 ieng01 , ui01 s0 ui03 kh0 u02 , ak08 tsh0 au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_034.wav|27|TW|au02 t0 ak08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_143.wav|27|TW|in01 k0 iann07 , innh08 au07 tsc0 an03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M10/S16_M10_135.wav|27|TW|th0 o02 ts0 oong01 , ieng01 dl0 ieen01 sc0 ieng01 , at08 k0 iook08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S40_M91_153.wav|28|TW|sc0 iunn03 sc0 i01 , ieng03 sc0 ai05 g0 oh03 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S40_M91_196.wav|28|TW|p0 ak04 t0 oo02 , iek04 tsc0 ui02 ts0 a03 , oong03 s0 a03 dl0 uh04 p0 i02 s0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S40_M91_148.wav|28|TW|sc0 im03 h0 ieet04 , i02 p0 iek04 p0 ieng03 , u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S07_M91_020.wav|28|TW|th0 ieen07 k0 au01 dl0 ieet08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S07_M91_014.wav|28|TW|t0 ioong07 k0 ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S08_M91_152.wav|28|TW|e01 dl0 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S25_M91_144.wav|28|TW|k0 in07 it08 djz0 i01 , ann03 dl0 ue03 n0 o07 tsh0 e02 b0 iu02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S04_M91_105.wav|28|TW|dl0 an01 k0 ook08 t0 ioong01 , au03 u01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S26_M91_085.wav|28|TW|k0 ue01 tsc0 i01 tsc0 iunn03 , ang07 ph0 it08 b0 iah02 , ng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S08_M91_085.wav|28|TW|k0 am01 k0 ak04 , i03 h0 at08 ioh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S42_M91_121.wav|28|TW|th0 at08 t0 ioh08 tsc0 ioh03 th0 au07 s0 uah02 ph0 ih02 dl0 oh03 kh0 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S08_M91_165.wav|28|TW|sc0 im07 ts0 oong07 , ieng02 ph0 oong07 ph0 iau03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S39_M91_187.wav|28|TW|ah03 b0 oo05 dl0 iu03 , i03 djz0 enn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S26_M91_098.wav|28|TW|h0 it04 a07 ts0 oo02 b0 in07 , au07 tsc0 ak04 g0 iu01 a03 b0 ang07 tsc0 au01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M91/S07_M91_047.wav|28|TW|p0 in07 t0 oong01 , in07 un05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S31_M12_159.wav|29|TW|a07 kh0 au02 kh0 it08 , e03 h0 un02 t0 o03 p0 un03 s0 ua03 , eh03 s0 ut08 s0 i03 , an02 th0 ieet08 tsh0 ak08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S10_M12_230.wav|29|TW|ts0 ap04 p0 eh02 oong07 k0 io07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S21_M12_258.wav|29|TW|dl0 am07 p0 ak04 , iam01 k0 i07 sc0 im03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S10_M12_087.wav|29|TW|tsc0 iang07 h0 ua03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S23_M12_204.wav|29|TW|au05 th0 un07 , e02 k0 ai07 th0 iunn02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S32_M12_158.wav|29|TW|o07 b0 e02 s0 i07 djz0 i02 , oo03 kh0 o07 h0 ai07 t0 ioh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S17_M12_145.wav|29|TW|b0 e07 h0 iek08 , o01 th0 e03 ts0 au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S16_M12_008.wav|29|TW|tsc0 iah03 tsh0 o01 , ue02 k0 oo07 h0 ieen07 , in03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S18_M12_150.wav|29|TW|b0 oong01 tsch0 i07 , iu02 tsc0 inn07 ph0 ieng07 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S17_M12_024.wav|29|TW|sc0 in07 sc0 in05 , iu07 sc0 im01 sc0 i07 , ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S29_M12_306.wav|29|TW|uann02 s0 oo07 h0 u01 dl0 oong01 b0 iunn03 sc0 inn07 tsc0 iunn03 sc0 ah02 k0 e03 b0 i01 kh0 iau03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S27_M12_159.wav|29|TW|h0 i07 s0 oo01 , ann03 n0 o02 ts0 iau02 dl0 u01 , oo07 j0 o03 s0 u01 t0 o01 j0 iah08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S25_M12_197.wav|29|TW|ts0 a07 p0 oo07 k0 iann02 , o02 ts0 ai03 t0 i03 tsc0 am07 , ng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S21_M12_303.wav|29|TW|dl0 a03 h0 ioh08 , iek08 t0 ue01 enn07 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M12/S32_M12_117.wav|29|TW|a03 k0 ue07 h0 an01 k0 ai07 , o02 p0 it04 ts0 ieet08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S19_M08_038.wav|30|TW|h0 uan07 h0 o07 , uann07 p0 unna02 n0 ieen02 , oo02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S31_M08_087.wav|30|TW|it08 tsc0 ai02 p0 o01 i03 kh0 ak08 tsch0 ui01 , ann07 dl0 inna05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S17_M08_193.wav|30|TW|k0 i07 b0 oong07 , ai01 k0 ann07 a07 , e02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S16_M08_220.wav|30|TW|h0 oong07 tsh0 ai02 , iau02 tsch0 am05 t0 uan07 , ieng02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S21_M08_326.wav|30|TW|o02 b0 am07 , in07 dl0 ook04 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S18_M08_063.wav|30|TW|p0 eh02 p0 ak04 , in02 ap04 tsc0 ap04 , oh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S32_M08_252.wav|30|TW|t0 e07 b0 e02 h0 o01 dl0 im07 t0 ioh08 t0 e03 djz0 i07 , au03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S17_M08_226.wav|30|TW|sc0 im07 b0 ook04 t0 ioong01 , i03 p0 ieng07 ue02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S16_M08_078.wav|30|TW|dl0 e01 h0 ook08 , ieen01 ang07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S22_M08_137.wav|30|TW|b0 uah02 p0 iah04 , iunn03 tsc0 ak08 b0 iam07 , ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S18_M08_371.wav|30|TW|h0 an02 ang05 p0 ioong07 , ang05 t0 ieen07 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S17_M08_189.wav|30|TW|kh0 ua02 sc0 im01 , ook04 in01 s0 ann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S16_M08_243.wav|30|TW|p0 ieen02 h0 ieng05 , ieng07 tsc0 ai02 tsh0 ieen07 , ip08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S20_M08_235.wav|30|TW|k0 iu01 dl0 iook04 t0 iam01 s0 ann01 , uan07 g0 u03 ts0 in07 b0 ieen03 t0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M08/S16_M08_027.wav|30|TW|tsh0 ai02 t0 uann01 , oong07 h0 ioong01 k0 un07 , ua02 h0 oo05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S17_F29_227.wav|31|TW|sc0 im07 h0 ieet04 , i03 p0 iek04 p0 ieng07 , u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S21_F29_241.wav|31|TW|h0 u02 k0 in07 , i07 k0 ieng05 dl0 ieen01 , ann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S21_F29_037.wav|31|TW|t0 e03 p0 iau02 , iek08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S14_F29_164.wav|31|TW|s0 eh03 t0 ai07 dl0 am05 , oong07 k0 ng05 h0 eh03 , e01 s0 oong07 th0 ng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S22_F29_265.wav|31|TW|tsh0 ai02 t0 iam03 , o01 p0 oo07 h0 i01 , ieng03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S17_F29_340.wav|31|TW|k0 i07 th0 ai07 , ah03 dl0 it04 p0 u03 , uan07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S18_F29_213.wav|31|TW|tsch0 it08 dl0 au03 p0 eh02 dl0 au07 , uat08 h0 ieen07 h0 ioh08 , am07 t0 ieng03 g0 iu07 tsc0 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S23_F29_309.wav|31|TW|t0 i07 tsh0 ai03 , in05 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S21_F29_338.wav|31|TW|dl0 am07 dl0 oo03 in03 , a03 ue01 b0 an07 dl0 ah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S18_F29_010.wav|31|TW|h0 ioong07 h0 ioong05 , oo02 th0 ueh04 h0 e07 , am07 s0 uan07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S21_F29_230.wav|31|TW|au02 t0 iek08 , ng01 tsc0 oo07 k0 im07 , ut08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S23_F29_173.wav|31|TW|k0 ue01 kh0 a01 , oong01 u01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S15_F29_121.wav|31|TW|sc0 i07 k0 e03 , ieng03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S14_F29_181.wav|31|TW|ts0 o02 t0 iam01 sc0 im01 , oong07 t0 oong07 tsh0 ue07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F29/S18_F29_126.wav|31|TW|o07 t0 iunn07 , iam07 u03 tsc0 oong07 , uan05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_209.wav|32|TW|t0 o07 tsc0 ieng07 h0 iann01 , in07 djz0 ieng07 sc0 ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S20_M32_248.wav|32|TW|oong02 kh0 ann07 s0 iam01 t0 iu02 k0 am07 , ai07 dl0 i07 t0 iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S20_M32_122.wav|32|TW|b0 ang03 dl0 i01 ts0 a01 k0 ui01 , ang02 s0 un01 k0 ieng07 , ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_272.wav|32|TW|tsc0 it04 kh0 a07 tsch0 iu01 tsc0 i02 , oo07 k0 uann07 t0 iah02 tsch0 iah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S20_M32_124.wav|32|TW|tsh0 an07 ts0 ng01 , iann07 h0 o01 k0 ui01 , ia01 ts0 oo07 tsch0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S20_M32_004.wav|32|TW|sc0 i07 inna03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_097.wav|32|TW|sc0 i03 i03 un07 sc0 e03 h0 ai02 , in07 g0 ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_068.wav|32|TW|ph0 iau07 dl0 oong03 tsc0 i07 dl0 u02 , ang03 b0 ioong07 t0 u07 s0 oo07 b0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_009.wav|32|TW|dl0 ioong01 h0 uann03 tsc0 ieng05 , e02 sy0 ua07 h0 iau01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_252.wav|32|TW|tsc0 i02 b0 ieng07 k0 ah02 tsh0 un07 k0 iau01 , ieen07 k0 ioong05 k0 u01 in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S20_M32_063.wav|32|TW|dl0 iu07 dl0 oong07 , ua07 iann01 k0 in02 sc0 e03 , oong01 tsc0 an05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_145.wav|32|TW|sc0 iunn03 dl0 i01 t0 iam01 h0 un01 , o07 h0 ieen07 dl0 o07 h0 ueh03 g0 ai02 ts0 ioong07 sc0 oong05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S20_M32_176.wav|32|TW|g0 ua01 sc0 ioong01 b0 e02 , io02 k0 e02 k0 ieng07 th0 ia01 tsch0 a03 , ua01 k0 oong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_214.wav|32|TW|ts0 a07 b0 oo01 dl0 ang05 , it04 djz0 au07 th0 iah02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M32/S30_M32_104.wav|32|TW|sc0 im07 uann03 i07 ph0 ua01 dl0 i01 , ieen07 g0 an03 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_193.wav|33|TW|b0 ue03 s0 ai02 , iah03 tsc0 iann01 sc0 innh04 m0 e01 , i02 k0 ua01 tsc0 e02 , iann01 g0 ieen03 b0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_092.wav|33|TW|dl0 an07 b0 oong07 , in05 uann07 ieng02 djz0 au01 , iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_024.wav|33|TW|t0 ioong07 s0 an01 , ak08 p0 oo07 dl0 iann07 , it08 k0 ai02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_220.wav|33|TW|ai02 s0 iah03 , iann01 tsc0 innh04 sc0 it04 m0 ut08 , ue03 sc0 o07 b0 iau05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_174.wav|33|TW|g0 ua01 sc0 ioong01 b0 e02 , io02 k0 ia01 tsch0 oong07 , i01 th0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_039.wav|33|TW|tsc0 it08 ang05 dl0 im07 , u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_011.wav|33|TW|dl0 ak04 g0 ueh08 , ua02 k0 ai03 tsh0 e01 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_178.wav|33|TW|g0 ua01 sc0 ioong01 b0 e02 , e03 ts0 ia01 tsch0 iann01 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_124.wav|33|TW|tsh0 an07 ts0 ng01 , iann07 h0 o01 k0 ui01 , ia01 ts0 oo07 tsch0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_043.wav|33|TW|k0 im07 ua01 , e02 g0 iunn02 b0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_108.wav|33|TW|u07 i07 ts0 un07 b0 oong01 , uan07 tsh0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_232.wav|33|TW|k0 iu01 s0 ann07 t0 iam01 ieng01 , at04 k0 oong01 tsh0 oo02 , ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F60/S20_F60_028.wav|33|TW|t0 ai07 p0 ak04 , uat04 h0 ue01 an07 b0 ia01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S16_M11_286.wav|34|TW|p0 enn07 th0 ann02 , im07 k0 e03 p0 au01 , o07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S17_M11_253.wav|34|TW|t0 it04 k0 ak04 , ia07 tsch0 ua01 h0 iu01 , eh04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S21_M11_059.wav|34|TW|g0 ueh03 sc0 iek04 , e07 k0 o01 b0 ang05 th0 au03 , ennh04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S18_M11_056.wav|34|TW|dl0 au07 ph0 inn03 h0 ueh04 , au07 dl0 inn07 ph0 au02 , oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S23_M11_323.wav|34|TW|p0 eh03 m0 unna07 iook04 , ang01 g0 ua02 tsh0 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S15_M11_221.wav|34|TW|t0 iau07 kh0 uan02 , in02 sc0 ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S18_M11_137.wav|34|TW|k0 am01 k0 ak04 , iam07 t0 iam01 t0 ua02 , o07 k0 iek04 h0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S24_M11_108.wav|34|TW|djz0 i03 p0 eh04 , eh02 p0 ueh08 g0 it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S22_M11_198.wav|34|TW|ieng02 k0 it04 , an02 djz0 ai01 s0 ieng02 , e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S20_M11_067.wav|34|TW|tsc0 iu01 ts0 ui03 , eh03 i07 p0 ai07 ai02 , ioong07 k0 ue07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S19_M11_165.wav|34|TW|h0 o03 g0 ua07 , e07 k0 au05 th0 innu03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S15_M11_029.wav|34|TW|th0 uat08 tsch0 iu02 , iam07 k0 ook08 t0 ook04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S22_M11_225.wav|34|TW|t0 o03 dl0 am02 , iu07 k0 it04 tsc0 uan02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S22_M11_151.wav|34|TW|th0 oo07 ts0 ui01 s0 ai01 , ua03 t0 inna05 m0 ieng07 , iek08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M11/S20_M11_197.wav|34|TW|b0 ue03 s0 ai02 , iah03 tsc0 iann01 sc0 innh04 m0 it04 , ut08 sc0 ua01 b0 e02 , iann01 g0 oong01 b0 oo02 th0 ieen03 , ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S22_F53_026.wav|35|TW|ts0 oh02 tsh0 an05 , inna07 m0 o07 h0 uan07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S22_F53_269.wav|35|TW|ts0 ui01 t0 ieen07 , an01 s0 in02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S20_F53_007.wav|35|TW|k0 im07 o02 , eh02 oh03 k0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S24_F53_225.wav|35|TW|djz0 ip04 tsch0 iau01 , ann07 s0 a07 kh0 ieng01 k0 it04 , au03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S20_F53_176.wav|35|TW|g0 ua01 sc0 ioong01 b0 e02 , io02 k0 e02 k0 ieng07 th0 ia01 tsch0 a03 , ua01 k0 oong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S22_F53_126.wav|35|TW|p0 iann02 sc0 ieng07 dl0 i01 , ieet04 tsc0 o02 k0 i02 , iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S23_F53_236.wav|35|TW|p0 a01 ang01 , iau02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S24_F53_163.wav|35|TW|djz0 in07 s0 ui07 , am07 s0 at08 p0 i01 tsc0 it04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S22_F53_258.wav|35|TW|t0 e03 dl0 i01 s0 u01 , ieng07 ph0 im02 sc0 oo01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S20_F53_045.wav|35|TW|t0 uan03 h0 un07 n0 inna02 , ieng07 tsc0 iann07 sc0 ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S20_F53_053.wav|35|TW|k0 u03 ph0 ue07 sc0 iunn01 , iu07 dl0 oong03 dl0 i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S23_F53_319.wav|35|TW|m0 enn07 dl0 oong01 k0 ue07 ai03 , oong07 ioong07 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S23_F53_039.wav|35|TW|ts0 a07 p0 oo07 k0 iann02 , iann07 k0 i02 sc0 ieng07 , ang07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S20_F53_059.wav|35|TW|tsch0 i07 tsc0 ieng05 , unni07 m0 ui02 k0 ue01 h0 ioong07 , im01 sc0 oo01 sc0 ai07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F53/S20_F53_049.wav|35|TW|kh0 o01 dl0 ieen05 , io01 oo07 sc0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S18_F20_328.wav|36|TW|tsc0 i01 h0 ueh04 , inn07 ioong07 ph0 un05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S21_F20_303.wav|36|TW|dl0 a03 h0 ioh08 , iek08 t0 ue01 enn07 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S27_F20_020.wav|36|TW|at08 b0 iook08 tsc0 e03 ts0 ioong01 tsc0 o02 ts0 ui07 h0 iu01 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S18_F20_182.wav|36|TW|p0 uann02 sc0 i02 dl0 ang05 , ioh08 t0 ieng03 tsch0 ng07 , au07 t0 eh03 th0 it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S17_F20_031.wav|36|TW|th0 am07 dl0 uan05 , am07 t0 im01 sc0 o01 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S16_F20_186.wav|36|TW|k0 iann02 kh0 ieng01 , ui01 s0 ui03 kh0 u02 , ak08 tsh0 au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S19_F20_310.wav|36|TW|k0 u02 u02 , i02 k0 iu07 kh0 ann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S16_F20_235.wav|36|TW|k0 uan07 k0 e07 , iann02 tsc0 oong01 ts0 ut08 , oo01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S22_F20_213.wav|36|TW|p0 ieen01 sc0 ieen07 ui07 , iam03 kh0 iunn07 t0 in07 , e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S15_F20_210.wav|36|TW|sc0 im01 dl0 i01 , ut08 p0 un02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S15_F20_305.wav|36|TW|b0 un03 tsc0 ieng03 , ieng01 tsc0 e02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S16_F20_099.wav|36|TW|tsch0 iu01 dl0 oong05 , i07 k0 un02 p0 ioh03 , am02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S28_F20_194.wav|36|TW|kh0 i02 sc0 ioong07 , oong01 k0 it08 tsc0 ui01 k0 ang07 k0 oong01 dl0 i03 sc0 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S18_F20_266.wav|36|TW|s0 enn02 m0 inna07 , ng02 k0 e05 g0 uan07 , an07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F20/S25_F20_064.wav|36|TW|g0 ua01 t0 ui02 dl0 i01 ang07 p0 oo07 ts0 in07 , an07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_130.wav|37|TW|tsc0 inn07 sc0 iann01 dl0 oo03 u07 , ioong01 s0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_110.wav|37|TW|kh0 o01 dl0 ieen05 , ang07 ue07 dl0 ioong01 h0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_125.wav|37|TW|dl0 ai03 s0 uann01 , iann07 h0 o01 k0 inn07 , o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_092.wav|37|TW|dl0 an07 b0 oong07 , in05 uann07 ieng02 djz0 au01 , iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_250.wav|37|TW|oong02 kh0 u02 s0 iam01 t0 ann01 s0 ak08 , a07 h0 ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_039.wav|37|TW|tsc0 it08 ang05 dl0 im07 , u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_143.wav|37|TW|ts0 u07 b0 io01 sc0 im01 , ieen01 b0 it08 sc0 i03 tsc0 iam07 , uann02 tsc0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_159.wav|37|TW|b0 u01 dl0 u02 , iook08 tsc0 ook04 h0 ang03 , ai01 dl0 ioh02 s0 ue03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_058.wav|37|TW|h0 o01 t0 ann02 , i01 dl0 ioh08 t0 ai07 dl0 ieng05 an03 tsc0 i07 , ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_179.wav|37|TW|g0 ua01 sc0 iunn03 b0 ueh04 , e03 ts0 ia01 tsch0 iann01 , i07 sc0 un07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_040.wav|37|TW|i01 dl0 ah02 im07 k0 iann03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_243.wav|37|TW|oong02 kh0 iam01 ann01 t0 an02 s0 iann07 , ieen03 h0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M45/S20_M45_054.wav|37|TW|djz0 ip04 dl0 ai05 , uan01 g0 ang03 b0 ioong01 t0 iunn03 , i01 sc0 i01 dl0 ai01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S13_M64_155.wav|38|TW|s0 e07 e01 k0 ieet08 , ioong07 k0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S11_M64_202.wav|38|TW|p0 o07 tsc0 ieng07 dl0 oo07 , onno07 ng0 oong03 h0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S13_M64_158.wav|38|TW|p0 ieng07 oo07 dl0 ioong07 , an07 t0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S13_M64_062.wav|38|TW|k0 oong07 h0 ook04 dl0 oo07 , in02 sc0 i03 g0 e01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S10_M64_228.wav|38|TW|ts0 ui01 dl0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S05_M64_016.wav|38|TW|ts0 au01 b0 e01 dl0 ua07 , oong07 dl0 iunn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S11_M64_145.wav|38|TW|t0 ai03 dl0 ieen07 k0 e01 , ieet08 k0 im07 dl0 e01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S05_M64_009.wav|38|TW|iau05 dl0 u07 , ang02 h0 ak08 k0 iunn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S13_M64_050.wav|38|TW|h0 ua07 sc0 in07 djz0 i03 dl0 oo07 , iu03 sc0 uann07 s0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S10_M64_106.wav|38|TW|sc0 ioong07 s0 an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S10_M64_052.wav|38|TW|sc0 in07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S13_M64_288.wav|38|TW|t0 oong07 oo07 dl0 uan07 , am07 kh0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S10_M64_363.wav|38|TW|b0 ak04 s0 a07 t0 oong03 b0 ut04 h0 ng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S05_M64_041.wav|38|TW|t0 ua03 oong01 , oo03 k0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M64/S10_M64_098.wav|38|TW|t0 io07 tsc0 iu01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S17_F09_291.wav|39|TW|g0 iau07 g0 i05 , ak08 dl0 e03 t0 ak08 ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S18_F09_071.wav|39|TW|kh0 i02 s0 au03 , am05 ueh03 g0 it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S17_F09_346.wav|39|TW|k0 ua02 dl0 u07 , ieen03 dl0 oong01 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S26_F09_156.wav|39|TW|o02 k0 ua07 tsh0 oo02 it04 ai07 b0 o07 , ieng07 sc0 oo02 ts0 ui02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S23_F09_184.wav|39|TW|p0 ieng01 p0 ieng05 , ook04 ts0 oo02 ph0 e02 , iann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S18_F09_103.wav|39|TW|dl0 ieng07 p0 oong05 , iann03 enn03 th0 iek08 , an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S28_F09_106.wav|39|TW|it08 eh02 t0 au01 , ue07 t0 oong07 ts0 inn05 tsh0 it08 , uann03 t0 a07 n0 oo01 , iann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S22_F09_279.wav|39|TW|b0 u01 s0 u07 , ieng07 sc0 am02 dl0 i03 , oong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S18_F09_280.wav|39|TW|th0 au07 th0 e01 , ng03 t0 in01 k0 iek04 , ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S27_F09_190.wav|39|TW|s0 oo01 ai03 , i03 oong01 t0 au07 tsc0 oo03 , ua01 dl0 ai07 k0 iau07 h0 iek08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S27_F09_193.wav|39|TW|tsc0 it08 n0 inna01 s0 ann01 uann02 s0 oo07 dl0 ia07 , iau01 tsch0 ui02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S24_F09_134.wav|39|TW|djz0 in07 am07 , uan07 s0 i05 g0 iunn03 h0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S24_F09_102.wav|39|TW|djz0 i03 dl0 ui01 tsch0 iu02 , at08 p0 oong07 th0 uan01 k0 it08 , ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S24_F09_091.wav|39|TW|djz0 i03 g0 uan05 , at08 p0 o01 p0 unnai05 m0 ap04 , i03 ts0 inn07 djz0 iunn03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F09/S26_F09_053.wav|39|TW|t0 o01 tsc0 it04 kh0 uann02 , i07 t0 am03 it04 , ut04 h0 ann07 sc0 ann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S15_M05_278.wav|40|TW|sc0 ia02 ts0 ue07 , e02 ts0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S10_M05_071.wav|40|TW|t0 am07 b0 un05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S08_M05_117.wav|40|TW|tsc0 it08 k0 ui01 k0 ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S16_M05_299.wav|40|TW|ts0 at04 p0 ak04 , iau02 sc0 iah08 g0 ang03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S15_M05_162.wav|40|TW|tsc0 inn07 k0 uan01 , o07 k0 ip04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S14_M05_109.wav|40|TW|i02 sc0 iek08 sc0 ai05 p0 ioh02 , iam02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S10_M05_008.wav|40|TW|dl0 ai03 dl0 iek08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S15_M05_125.wav|40|TW|sc0 ih03 p0 un02 , ieng03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S10_M05_220.wav|40|TW|h0 ap04 h0 ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S10_M05_050.wav|40|TW|dl0 am07 tsc0 ieng07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S15_M05_277.wav|40|TW|sc0 i01 ts0 ue07 , ap04 ts0 it04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S11_M05_154.wav|40|TW|h0 o07 p0 ak08 dl0 oo07 , un07 kh0 in07 b0 e01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S15_M05_123.wav|40|TW|sc0 iau07 dl0 oo07 , an07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S15_M05_241.wav|40|TW|g0 e07 un07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M05/S16_M05_206.wav|40|TW|dl0 u07 ioong07 , ieng03 t0 ieng01 sc0 uan01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S26_F38_176.wav|41|TW|t0 ak08 ang07 dl0 oong01 dl0 ah02 iann03 ph0 ui07 p0 iu05 , a07 t0 i07 k0 ook04 , iau01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S21_F38_314.wav|41|TW|ui02 tsh0 it08 p0 u07 un02 , au02 g0 iah03 t0 ng03 tsh0 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S29_F38_320.wav|41|TW|p0 e03 k0 iann01 h0 i07 g0 ui03 dl0 ioong03 k0 ai02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S18_F38_143.wav|41|TW|ng01 k0 ai03 , in07 p0 inn07 sc0 ue02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S16_F38_006.wav|41|TW|tsc0 iah03 dl0 ieng01 , uah02 k0 ue03 h0 uann02 , ang07 kh0 o05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S18_F38_029.wav|41|TW|t0 i07 t0 u07 k0 i03 , iann02 p0 ieet04 h0 iu07 , in03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S21_F38_069.wav|41|TW|k0 oong07 ts0 uan02 , au01 tsh0 ennh02 m0 oong01 k0 iu03 , i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S21_F38_184.wav|41|TW|k0 ook08 t0 oo07 , am01 k0 iu02 e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S28_F38_163.wav|41|TW|h0 it04 a07 ts0 oo02 b0 in01 , am01 g0 i03 ue07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S23_F38_251.wav|41|TW|s0 ut08 b0 ak04 b0 ue02 , ak08 p0 i01 b0 uan02 k0 in07 , oong05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S22_F38_270.wav|41|TW|an01 p0 an01 , e07 s0 im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S24_F38_142.wav|41|TW|djz0 in07 kh0 au02 , am07 s0 iook04 kh0 iunn03 , i05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S21_F38_054.wav|41|TW|tsh0 au01 p0 oo01 , u07 g0 ai01 s0 u01 k0 oo01 , oo02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S17_F38_343.wav|41|TW|k0 ieng02 t0 ioong07 , ang01 dl0 i01 ang01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F38/S16_F38_002.wav|41|TW|tsh0 uah02 p0 ieng01 , ieng01 k0 i03 kh0 e07 , oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_020.wav|42|TW|ts0 ue02 it04 , an07 tsc0 uai02 p0 ia01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_124.wav|42|TW|tsh0 an07 ts0 ng01 , iann07 h0 o01 k0 ui01 , ia01 ts0 oo07 tsch0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_082.wav|42|TW|k0 oo02 h0 ioong01 , ieet04 ia01 dl0 im07 tsch0 ai03 , ann01 sc0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_154.wav|42|TW|tsch0 ieng07 tsh0 un07 n0 inna02 , ieng01 dl0 oong07 s0 u02 ts0 unni07 , ui03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_168.wav|42|TW|g0 ua01 b0 ueh02 ts0 e03 k0 e02 th0 ieng07 tsch0 ia01 , in03 tsc0 ioong07 dl0 ue03 , ai02 b0 iah03 s0 iann01 , innh04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_097.wav|42|TW|k0 uan07 inna02 n0 i07 , uan07 tsc0 im07 dl0 io01 sc0 ia02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_042.wav|42|TW|dl0 an01 tsc0 i01 it08 , iau05 tsc0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_081.wav|42|TW|ieng05 tsc0 ue02 , oo03 k0 ang05 dl0 iann01 dl0 i01 , iann07 tsch0 ua01 dl0 oong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_113.wav|42|TW|sc0 im07 k0 am01 , ieng07 tsc0 uan07 g0 ang01 , inn01 k0 ioh02 p0 ieet08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_050.wav|42|TW|dl0 oh03 t0 ua03 h0 oo07 , it08 h0 it04 tsc0 it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_074.wav|42|TW|dl0 au03 h0 iann01 , iann07 k0 iu01 tsc0 au05 dl0 ieng07 , oong01 sc0 iau07 k0 iann07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_182.wav|42|TW|g0 ua01 sc0 ioong01 b0 e02 , o02 ts0 ue02 h0 inna01 , i07 n0 an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F56/S20_F56_234.wav|42|TW|k0 iu01 sc0 i02 t0 iam01 s0 ann01 , o07 k0 ioong07 h0 ieen03 t0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S23_M58_131.wav|43|TW|sc0 ieen02 tsh0 ui02 ph0 ue02 , oo01 th0 oong07 ioong07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S25_M58_136.wav|43|TW|g0 ua01 kh0 uann02 t0 ai03 tsc0 i03 , oong01 dl0 oo03 h0 o03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S29_M58_287.wav|43|TW|ts0 ui02 k0 ui07 ioong07 t0 u03 ang03 k0 ue02 b0 i05 k0 ia07 k0 io03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S31_M58_160.wav|43|TW|it08 tsc0 iah02 ieng03 ph0 ah02 sc0 ang07 , o07 k0 ang03 dl0 uan02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S29_M58_223.wav|43|TW|tsc0 ieng07 h0 ua07 p0 an01 sc0 ioong07 sc0 im07 k0 ua07 m0 unna07 tsc0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S32_M58_232.wav|43|TW|g0 ua01 n0 ann03 b0 o07 th0 iah02 ph0 ua03 , oo03 h0 i01 dl0 iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S25_M58_052.wav|43|TW|tsc0 it08 k0 ieng07 k0 ang07 t0 iunn05 , ng07 t0 eh04 t0 ieng07 , an02 sc0 in07 s0 an01 , in02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S29_M58_194.wav|43|TW|dl0 u01 t0 oo07 n0 anni03 h0 o07 g0 in01 iann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S29_M58_086.wav|43|TW|tsc0 iah02 kh0 au01 sc0 ieng07 kh0 un01 ph0 ah02 k0 at04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S28_M58_052.wav|43|TW|i01 tsc0 ut08 p0 o03 k0 i03 , it08 sc0 uann02 tsc0 ang01 ai02 p0 inna03 th0 inna07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S23_M58_307.wav|43|TW|h0 an07 tsc0 i07 h0 ioh08 , ng07 s0 ui05 s0 oo01 , ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S33_M58_151.wav|43|TW|t0 o03 s0 ng02 k0 oong02 , i01 dl0 iah03 dl0 ng07 t0 oo01 p0 e02 t0 ann03 , o07 m0 au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S24_M58_068.wav|43|TW|iau07 t0 iek04 at08 sc0 un01 , o07 p0 oo01 h0 iu02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S27_M58_187.wav|43|TW|e03 t0 ai01 u02 , ai02 p0 o02 ts0 e03 ainn01 tsh0 iah08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M58/S28_M58_080.wav|43|TW|ts0 u03 ieng07 , i03 ang05 sc0 ang05 oong01 , iunn03 sc0 e02 dl0 ue03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S05_M07_108.wav|44|TW|tsch0 ieen07 h0 ut04 s0 uann01 , oo07 ph0 eh03 th0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S21_M07_103.wav|44|TW|dl0 ieng01 h0 oong01 , ann02 k0 o02 b0 ieng07 , iam05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S21_M07_333.wav|44|TW|k0 e07 iann02 k0 ah02 , it04 p0 oong07 djz0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S33_M07_112.wav|44|TW|h0 oong07 th0 ai01 , iau01 dl0 ak04 ang03 , ai02 t0 oong01 h0 i01 tsh0 e02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S38_M07_259.wav|44|TW|sc0 io01 n0 innau02 , ieen07 tsch0 im01 k0 au01 , ieen07 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S33_M07_107.wav|44|TW|g0 uan01 b0 e02 kh0 ai07 sc0 i02 , i01 kh0 ue02 h0 ai07 , ang07 dl0 ah02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S37_M07_150.wav|44|TW|uann07 s0 i01 tsch0 ieng07 tsc0 ue01 h0 ui07 , in05 h0 ai07 i02 dl0 a03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S37_M07_162.wav|44|TW|b0 ang03 dl0 i01 ts0 ai02 h0 ue07 th0 au05 , an07 ia03 am07 dl0 i07 sc0 ieng07 , ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S37_M07_034.wav|44|TW|iah02 h0 inn03 n0 iann03 th0 ueh03 , ai07 g0 i07 t0 ieng05 dl0 an07 tsc0 ioh08 , i01 kh0 iu02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S21_M07_117.wav|44|TW|tsch0 ieng07 s0 an01 , ang07 ph0 iu07 sc0 a07 , iam07 kh0 iu01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S36_M07_259.wav|44|TW|iann07 ang07 k0 e05 k0 oo01 ts0 ng01 , oo03 p0 ua07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S37_M07_161.wav|44|TW|b0 ang03 dl0 i01 ts0 ai01 , un03 h0 ieng07 tsc0 ua01 k0 am07 , i07 dl0 im07 djz0 iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S37_M07_064.wav|44|TW|i01 dl0 au02 au07 k0 ieng03 dl0 ook08 , in02 h0 ieng07 h0 iook04 tsc0 uann02 h0 ua03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S21_M07_134.wav|44|TW|k0 ng02 th0 ih04 , an03 b0 ang01 t0 an01 , i07 s0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M07/S33_M07_046.wav|44|TW|u03 ts0 ut08 tsh0 i03 sc0 o03 , iah03 t0 ai03 tsc0 au02 tsh0 ann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_209.wav|45|TW|s0 ann01 kh0 ah01 m0 anni01 tsc0 iah08 , ua01 g0 iann07 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_238.wav|45|TW|k0 iu01 b0 at08 t0 iam01 s0 ann01 , ang01 k0 oo07 t0 ieen03 t0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_193.wav|45|TW|b0 ue03 s0 ai02 , iah03 tsc0 iann01 sc0 innh04 m0 e01 , i02 k0 ua01 tsc0 e02 , iann01 g0 ieen03 b0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_055.wav|45|TW|tsc0 i01 h0 o02 , ang02 p0 i01 dl0 iann07 k0 oh03 dl0 oo07 h0 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_174.wav|45|TW|g0 ua01 sc0 ioong01 b0 e02 , io02 k0 ia01 tsch0 oong07 , i01 th0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_210.wav|45|TW|sc0 iann01 kh0 ah01 m0 anni01 tsc0 iah08 , ua01 g0 iunn02 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_133.wav|45|TW|e01 k0 in07 , ieng01 djz0 o01 sc0 oo02 , an01 p0 o01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_009.wav|45|TW|k0 oong01 sc0 iann01 m0 innh04 , an07 s0 ieng07 b0 ai01 h0 e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_134.wav|45|TW|dl0 ang07 kh0 eh04 , iu05 ai03 k0 uann01 , oo07 dl0 innu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_208.wav|45|TW|sc0 iann01 m0 innh04 , ah01 kh0 anni01 m0 iah08 tsc0 ua01 , ueh02 g0 iunn02 b0 ai07 tsch0 u01 t0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_064.wav|45|TW|th0 e02 sc0 iek04 , uan07 ieng05 dl0 ai02 tsc0 ue07 , an07 ts0 it04 h0 ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M36/S20_M36_230.wav|45|TW|k0 iu01 iam01 t0 iu02 k0 a07 , am07 k0 ieen03 dl0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S28_M30_071.wav|46|TW|t0 ai03 tsc0 i03 , ann01 n0 iann07 au02 k0 it08 k0 uan01 tsc0 e03 kh0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S28_M30_193.wav|46|TW|tsc0 it08 h0 ang03 m0 innh03 k0 iann07 , ua01 g0 am01 k0 ak04 k0 o07 , iann01 b0 innh04 sc0 iek04 m0 ieet08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_250.wav|46|TW|oong02 kh0 u02 s0 iam01 t0 ann01 s0 ak08 , a07 h0 ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S28_M30_120.wav|46|TW|t0 u01 tsc0 iah04 , ua01 g0 ieng07 b0 ieng05 b0 iann07 , ioh08 ang07 th0 eh02 t0 oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_117.wav|46|TW|ieng05 tsc0 iah03 , iah08 tsch0 iap08 tsch0 ang03 , ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_160.wav|46|TW|iau02 tsc0 am07 , uan07 k0 o02 g0 uann07 , in07 kh0 ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S27_M30_148.wav|46|TW|ut08 inn07 tsh0 ann01 tsc0 in07 n0 iunn07 tsch0 eh02 tsch0 a03 , uah02 t0 ah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_090.wav|46|TW|kh0 o01 it04 , ang07 h0 e01 ieen05 , un07 dl0 ieng07 kh0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_150.wav|46|TW|t0 uan03 t0 ng07 sc0 i01 , ua01 g0 ue03 ang02 k0 ue03 , ui01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_125.wav|46|TW|dl0 ai03 s0 uann01 , iann07 h0 o01 k0 inn07 , o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S27_M30_176.wav|46|TW|ann03 n0 o07 b0 ng01 s0 ah02 k0 ue02 k0 ieen03 g0 i03 , e07 sc0 ng01 b0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S28_M30_139.wav|46|TW|an07 k0 ann01 n0 o02 , it04 kh0 ua01 tsc0 in07 k0 ui02 eh02 , oong01 sc0 oo07 s0 inna03 , inna07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S20_M30_067.wav|46|TW|tsc0 iu01 ts0 ui03 , eh03 i07 p0 ai07 ai02 , ioong07 k0 ue07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M30/S28_M30_152.wav|46|TW|ai07 ts0 o01 it04 , u02 t0 iah02 tsc0 i03 k0 in01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S23_F23_164.wav|47|TW|kh0 ap04 t0 ioh08 , in07 djz0 e01 k0 ai02 , iau01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S21_F23_148.wav|47|TW|g0 uan07 s0 oo03 , ah02 t0 iannh04 h0 u07 , e03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S23_F23_051.wav|47|TW|b0 i01 djz0 in05 , inn03 ph0 ai01 s0 o01 k0 an07 , ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S19_F23_229.wav|47|TW|tsc0 iunn07 ue02 , i07 h0 i02 ang02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S23_F23_189.wav|47|TW|sc0 io07 sc0 iam05 , in07 b0 ang07 h0 iook08 k0 uann07 , ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S16_F23_310.wav|47|TW|g0 u07 dl0 ieng07 sc0 iek04 , i07 tsc0 io03 ph0 uan07 , in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S15_F23_107.wav|47|TW|e03 ui02 ts0 i02 , ui02 h0 ak04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S17_F23_018.wav|47|TW|sc0 im07 s0 ng01 , in07 sc0 oong01 th0 iu07 , oo07 djz0 a01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S16_F23_210.wav|47|TW|s0 e01 ook04 , a01 t0 io01 k0 in03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S23_F23_263.wav|47|TW|g0 oo03 ts0 an02 dl0 au07 eh03 , ai02 s0 i03 tsh0 ua03 tsch0 e07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S19_F23_062.wav|47|TW|tsch0 i02 sc0 ia07 , in07 djz0 im01 sc0 uah02 , au03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S17_F23_164.wav|47|TW|h0 uai07 g0 i05 , u03 ts0 o02 p0 ieng07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S18_F23_300.wav|47|TW|ts0 u07 ut08 , ann07 enn07 b0 uann02 , enn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S21_F23_167.wav|47|TW|g0 uan07 ioong07 , inn05 h0 ah02 n0 ap08 , ui02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F23/S19_F23_070.wav|47|TW|tsc0 ieen02 s0 ut08 , anni02 m0 a01 tsh0 a07 dl0 an07 , ue07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_140.wav|48|TW|tsch0 iu01 oong07 , oo07 dl0 an07 t0 an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_183.wav|48|TW|oong01 ts0 oo01 , iunn01 s0 oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_148.wav|48|TW|h0 ui01 tsh0 ui03 , eh03 p0 oong02 k0 inn03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_089.wav|48|TW|s0 ann07 k0 ak08 kh0 oo03 , an01 k0 an01 t0 au01 , u02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S20_F04_013.wav|48|TW|sc0 io01 tsc0 ia02 , iann01 tsch0 i01 dl0 oo03 h0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_017.wav|48|TW|n0 inn07 tsh0 ui02 ang02 , iau03 p0 uann07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S20_F04_138.wav|48|TW|am07 t0 ueh03 , u03 ieng05 g0 inn07 k0 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S20_F04_085.wav|48|TW|tsc0 it04 tsh0 ui03 , an07 k0 it04 tsc0 ue01 p0 u03 , ieng05 k0 inn07 tsc0 inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_279.wav|48|TW|k0 uai02 ih03 , ut04 sc0 io03 s0 in07 k0 ak08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_326.wav|48|TW|kh0 ai07 tsc0 inn05 , o01 h0 e03 k0 ieen03 , iu05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S20_F04_043.wav|48|TW|k0 im07 ua01 , e02 g0 iunn02 b0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_329.wav|48|TW|kh0 iam03 tsc0 inn05 , ia02 k0 im07 k0 oo03 ph0 ieen03 in03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S20_F04_148.wav|48|TW|tsch0 i07 tsc0 ieng07 h0 ue01 , ui02 tsh0 im07 sc0 uan05 dl0 i01 , o07 dl0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S16_F04_022.wav|48|TW|s0 uh02 k0 oong02 , o02 p0 iau03 sc0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F04/S20_F04_208.wav|48|TW|sc0 iann01 m0 innh04 , ah01 kh0 anni01 m0 iah08 tsc0 ua01 , ueh02 g0 iunn02 b0 ai07 tsch0 u01 t0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S21_F44_336.wav|49|TW|k0 e07 th0 o07 e07 , ang05 t0 a07 ts0 au07 , ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S32_F44_116.wav|49|TW|h0 it08 h0 ang03 t0 ai03 tsc0 i03 , ang03 ua01 k0 oong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S19_F44_286.wav|49|TW|k0 au07 tsc0 ieng05 , it08 sc0 u07 s0 iu07 , oo02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S22_F44_209.wav|49|TW|n0 inn07 b0 o02 , o01 kh0 iek08 h0 oo01 , it08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S14_F44_191.wav|49|TW|it04 dl0 i02 g0 it04 , i02 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S22_F44_074.wav|49|TW|uann02 ang01 , i02 s0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S23_F44_081.wav|49|TW|s0 ue02 kh0 eh04 , ut08 tsh0 iann01 sc0 uan07 , o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S23_F44_108.wav|49|TW|ts0 ap04 tsc0 ieng01 uan03 , i07 k0 au03 tsch0 ai02 , e02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S15_F44_324.wav|49|TW|sc0 it04 b0 in05 , uan07 ts0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S32_F44_103.wav|49|TW|a03 k0 ua01 g0 ieen03 annu02 t0 ainn01 n0 i02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S21_F44_218.wav|49|TW|t0 oh02 b0 in07 , iang07 dl0 i02 in07 , oo01 kh0 inna07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S24_F44_206.wav|49|TW|djz0 ip04 ann07 , it04 s0 in01 djz0 it04 sc0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S14_F44_169.wav|49|TW|k0 i07 t0 o01 h0 ue07 , a01 t0 o07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S20_F44_251.wav|49|TW|oong02 kh0 onno01 ng0 iam01 t0 iu02 k0 ak08 , a07 h0 ieen03 k0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F44/S26_F44_105.wav|49|TW|ui02 t0 an02 h0 un05 b0 it08 , oong07 tsc0 in07 h0 ak04 b0 un07 , ah01 ieng02 h0 u03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_284.wav|50|TW|sc0 ieen03 h0 ua03 , ook08 k0 io02 sc0 a07 , uah08 k0 ook08 p0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_027.wav|50|TW|k0 iam07 ts0 ui02 , ueh02 p0 ak08 k0 au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_182.wav|50|TW|sc0 in07 h0 oong01 , o07 k0 ioong01 t0 ak08 , o07 p0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_058.wav|50|TW|th0 ai02 ts0 u01 b0 io07 , in07 b0 it04 t0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_113.wav|50|TW|h0 e01 s0 uann01 , iek08 ph0 un07 h0 i07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_017.wav|50|TW|dl0 i03 dl0 iau05 , uann02 kh0 it04 dl0 au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_077.wav|50|TW|t0 ai07 dl0 am05 , in07 sc0 ak04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_130.wav|50|TW|t0 ai07 dl0 am05 , oong07 k0 ng05 h0 ang07 , ak04 t0 ieen07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_176.wav|50|TW|b0 in01 h0 ui07 , oo07 uan07 h0 au07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_334.wav|50|TW|t0 ai03 t0 iek04 , ook08 k0 io02 sc0 iook04 , oong01 g0 ook08 h0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_262.wav|50|TW|in03 sc0 ook08 , io02 k0 ieng02 sc0 i07 , ook08 sc0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_144.wav|50|TW|sc0 in07 enn03 , ak08 p0 un07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_260.wav|50|TW|oong01 kh0 ook08 , io02 k0 un07 sc0 an01 , ook08 kh0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_296.wav|50|TW|k0 ang01 b0 ue02 , ook08 k0 io02 sc0 a07 , i01 k0 ook08 dl0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M03/S05_M03_076.wav|50|TW|t0 ai07 dl0 am05 , iann07 th0 ioong02 t0 uann07 , ia03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_005.wav|51|TW|dl0 i07 ts0 uu02 i05 h0 oh02 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_175.wav|51|TW|t0 e03 k0 au01 g0 ueh03 t0 ai05 , un07 h0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_305.wav|51|TW|i01 dl0 im07 sc0 ui02 tsh0 i01 iann03 dl0 i01 th0 im07 , ai03 dl0 ia01 ioh08 sc0 at04 dl0 ang05 sc0 inna05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_127.wav|51|TW|sc0 ioong07 h0 oong07 b0 ang03 h0 o07 sc0 i05 , am03 h0 enn01 ts0 ang07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_102.wav|51|TW|sc0 iau01 dl0 ang05 , oo03 g0 ueh03 g0 ap04 ts0 it08 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_209.wav|51|TW|t0 o07 tsc0 ieng07 h0 iann01 , in07 djz0 ieng07 sc0 ui07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_226.wav|51|TW|tsch0 i07 sc0 im07 th0 an02 k0 ooh04 , am01 k0 ia03 sc0 i01 dl0 o07 b0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_233.wav|51|TW|tsch0 i07 tsc0 ieng07 h0 oo03 dl0 ang07 sc0 im07 th0 iann03 , am01 k0 ieng07 tsc0 inn02 p0 u03 h0 am01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_237.wav|51|TW|tsch0 ieen07 g0 ieen07 b0 an03 g0 i02 , au07 k0 ai03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_026.wav|51|TW|at08 b0 oong01 k0 i01 an03 dl0 an03 , inn05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_146.wav|51|TW|sc0 iunn03 sc0 i07 o07 , it08 h0 iu07 p0 uan05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_281.wav|51|TW|ts0 ng01 kh0 a01 dl0 ai05 uat08 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_282.wav|51|TW|ts0 ng01 kh0 a01 s0 oong05 , uat08 k0 ieen02 tsc0 i07 sc0 iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M53/S30_M53_086.wav|51|TW|s0 a01 annh02 n0 ah02 dl0 ang02 p0 iu01 tsch0 ah04 dl0 o07 , i01 b0 i03 dl0 in07 t0 inn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_144.wav|52|TW|sc0 iunn03 dl0 i01 i07 sc0 un07 ts0 o01 , iann02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_231.wav|52|TW|tsch0 i07 tsc0 ieng07 g0 ueh03 n0 innu07 t0 o02 , am01 k0 ieng07 tsc0 ng02 kh0 it04 tsc0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S20_M29_111.wav|52|TW|sc0 iang07 dl0 ang05 , im01 tsc0 au05 th0 e02 , unne07 s0 iang03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S20_M29_213.wav|52|TW|u02 ts0 iann01 innh04 , ua01 sc0 iunn03 m0 ai07 , i01 g0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_020.wav|52|TW|dl0 u01 djz0 in07 m0 inna07 , u02 iu02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S20_M29_182.wav|52|TW|g0 ua01 sc0 ioong01 b0 e02 , o02 ts0 ue02 h0 inna01 , i07 n0 an01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_067.wav|52|TW|ph0 iau07 dl0 oong03 ieng01 sc0 ang03 , ioong01 b0 ue07 t0 ui02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S20_M29_207.wav|52|TW|b0 ue03 t0 ang03 , iah03 tsc0 iann01 sc0 innh04 m0 it04 , ut08 sc0 ua01 b0 e02 , iunn02 g0 ai07 b0 i01 tsch0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S20_M29_016.wav|52|TW|ts0 ui01 ph0 uah04 , oh03 dl0 e07 t0 ainn01 , iu07 ph0 ue05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S20_M29_086.wav|52|TW|kh0 uai02 dl0 ook08 , ut08 ang05 tsh0 inn07 ph0 oong01 , iann02 th0 oong03 k0 ang05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_130.wav|52|TW|sc0 ioong07 sc0 i07 ph0 uann03 g0 ueh08 , i07 h0 ang07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_090.wav|52|TW|s0 e02 k0 an07 tsc0 ieng05 , u01 b0 uann07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_198.wav|52|TW|t0 iam03 t0 iam07 , iam02 ang03 k0 ieen07 b0 ai05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M29/S30_M29_038.wav|52|TW|m0 inna03 iam01 t0 ua01 k0 i01 , i02 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S05_F05_168.wav|53|TW|dl0 am07 t0 ai05 , o07 kh0 i01 k0 ai03 , ak08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S20_F05_176.wav|53|TW|g0 ua01 sc0 ioong01 b0 e02 , io02 k0 e02 k0 ieng07 th0 ia01 tsch0 a03 , ua01 k0 oong02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S12_F05_096.wav|53|TW|kh0 ui02 ak08 , oo01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S15_F05_110.wav|53|TW|p0 ang02 ts0 e03 , ioong05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S05_F05_204.wav|53|TW|t0 ioong07 s0 an01 , ook08 k0 ioong01 t0 ieen02 , ieng01 k0 ook08 h0 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S20_F05_227.wav|53|TW|k0 iu01 kh0 oong02 t0 iam01 tsch0 it04 , ioong07 i07 h0 iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S15_F05_311.wav|53|TW|k0 ai02 g0 iam05 , it04 tsc0 ut08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S05_F05_203.wav|53|TW|ieng05 b0 o07 , ang01 k0 iek04 k0 a07 , u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S20_F05_005.wav|53|TW|b0 o07 tsc0 ieng05 , ang07 dl0 iann01 tsch0 i01 dl0 i03 dl0 ui01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S12_F05_158.wav|53|TW|h0 inn03 k0 ut08 inn03 , ng02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S15_F05_213.wav|53|TW|sc0 ieng02 s0 oo03 , e02 s0 ieet04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S05_F05_160.wav|53|TW|sc0 in07 h0 ua03 , e03 iann01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S05_F05_334.wav|53|TW|t0 ai03 t0 iek04 , ook08 k0 io02 sc0 iook04 , oong01 g0 ook08 h0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S15_F05_231.wav|53|TW|tsc0 ip08 h0 uat04 , it04 sc0 u07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F05/S05_F05_006.wav|53|TW|un07 s0 iunn05 , in03 ioong01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S24_M57_123.wav|54|TW|djz0 in07 b0 ieen03 t0 iek04 , eh02 p0 iann05 sc0 it08 , iek04 tsch0 ieng07 sc0 in07 tsc0 at04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_026.wav|54|TW|kh0 i01 h0 uann07 , iu07 th0 in07 sc0 ieng01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S24_M57_262.wav|54|TW|k0 au01 ts0 o05 , ann07 s0 ng03 t0 iunn03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_170.wav|54|TW|h0 i03 k0 iann03 , ng07 ts0 ng02 k0 inn03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S24_M57_020.wav|54|TW|i03 djz0 ap08 ts0 iau01 , ang01 dl0 ip04 k0 i03 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S24_M57_162.wav|54|TW|djz0 in07 s0 u03 tsh0 u03 , am07 s0 at08 p0 ui03 tsh0 it04 , ue02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_322.wav|54|TW|sc0 im07 k0 uann07 kh0 ut08 in07 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_181.wav|54|TW|k0 uann07 t0 ioh08 , am01 k0 ioh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_106.wav|54|TW|sc0 iau07 h0 ua02 p0 ut08 dl0 ioong05 , ng01 ue02 s0 o01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_054.wav|54|TW|ai05 h0 e07 , iu07 g0 enn07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_029.wav|54|TW|k0 im07 sc0 iook08 , in05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S24_M57_014.wav|54|TW|ioong03 h0 i03 , ieng07 dl0 ioong03 t0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S24_M57_202.wav|54|TW|djz0 ip04 k0 ut04 , ann07 s0 inn03 h0 au02 tsh0 it04 , i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_189.wav|54|TW|tsh0 ui02 ph0 ua02 kh0 ang01 , ui02 tsh0 ih08 tsc0 o03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_M57/S12_M57_218.wav|54|TW|h0 oong07 sc0 ip08 sc0 ieng02 k0 uan07 ts0 at08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S14_F13_205.wav|55|TW|au01 ts0 ang07 , au05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S15_F13_335.wav|55|TW|t0 oong01 tsc0 iek08 , ieng02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S19_F13_155.wav|55|TW|b0 it04 sc0 iek04 , iau02 t0 io05 k0 a07 , ah03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S15_F13_247.wav|55|TW|h0 uan03 ts0 ue07 , ang03 t0 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S21_F13_136.wav|55|TW|dl0 iu07 h0 oong05 , o07 b0 i03 g0 innu07 n0 iau07 , an01 sc0 oh03 s0 ah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S11_F13_113.wav|55|TW|tsch0 it08 h0 ieen07 dl0 oo07 , at08 p0 iek08 t0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S20_F13_145.wav|55|TW|sc0 io07 tsc0 iu01 oo07 , ieng07 ieng05
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S22_F13_322.wav|55|TW|k0 ang07 sc0 ioong07 k0 ai03 , ai07 ts0 u02 dl0 ioong07 , i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S16_F13_210.wav|55|TW|s0 e01 ook04 , a01 t0 io01 k0 in03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S09_F13_026.wav|55|TW|th0 iann07 k0 ua07 i03 h0 uann02 , oo02 kh0 e03 p0 i03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S12_F13_040.wav|55|TW|tsh0 ui02 kh0 ang07 g0 am05 , e07 k0 enn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S16_F13_291.wav|55|TW|sc0 iu07 s0 ook04 , i03 dl0 iek04 sc0 ieen03 , io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S09_F13_129.wav|55|TW|k0 au01 tsch0 ieng01 , iah02 tsc0 ai01 h0 i01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S08_F13_045.wav|55|TW|tsh0 ut08 h0 ueh04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F13/S19_F13_261.wav|55|TW|th0 au02 b0 ue02 , o07 b0 uann02 s0 ieen07 t0 uan01 , oo03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S23_F03_081.wav|56|TW|s0 ue02 kh0 eh04 , ut08 tsh0 iann01 sc0 uan07 , o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S05_F03_248.wav|56|TW|t0 ai03 k0 oong01 , ook08 k0 io02 sc0 un07 , uan05 b0 ook08 g0 io02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S15_F03_208.wav|56|TW|sc0 iap04 ut08 , ieen03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S16_F03_282.wav|56|TW|dl0 ip04 th0 e02 , i07 sc0 i07 sc0 ut04 s0 ut08 s0 ieen03 , im01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S29_F03_272.wav|56|TW|iek08 sc0 ui07 h0 ioong07 sc0 iann02 k0 ue07 h0 ui01 ts0 ueh08
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S19_F03_140.wav|56|TW|t0 eh02 p0 inn02 , oo07 iam07 dl0 ui02 , ut04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S22_F03_281.wav|56|TW|g0 ak04 tsch0 iu02 , ieng07 sc0 iap04 tsc0 un01 , ieng03
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S19_F03_019.wav|56|TW|t0 oong01 b0 u07 , in07 djz0 i03 kh0 iunn01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S22_F03_190.wav|56|TW|k0 au02 tsc0 it08 ieng01 , ainn01 iah04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S22_F03_342.wav|56|TW|k0 iau01 sc0 ieen01 , ut08 tsh0 ai01 tsh0 i01 , iek04
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S13_F03_157.wav|56|TW|dl0 am07 h0 ua07 dl0 oo07 , iook04 dl0 ap04 h0 oo07
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S20_F03_093.wav|56|TW|k0 e07 dl0 ang07 s0 uann01 , i07 tsc0 uan07 dl0 ann07 s0 inn05 n0 ua01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S29_F03_317.wav|56|TW|h0 ieen07 ts0 oong07 b0 e03 th0 ieng07 dl0 an01 i03 sc0 oong02 k0 o02
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S27_F03_145.wav|56|TW|dl0 in01 ang07 it08 , ann02 dl0 am01 tsc0 o02 m0 eh02 , oong07 k0 ue01
+/mnt/Linux_DATA/synthesis/corpus/22k/corpus/tw/corpus/neutral/tw_F03/S22_F03_079.wav|56|TW|h0 i07 t0 iunn05 , e01 t0 e03 k0 iu01 , uat04
