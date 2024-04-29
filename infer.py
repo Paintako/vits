@@ -46,7 +46,7 @@ net_g = SynthesizerTrn(
     **hps.model).cuda()
 _ = net_g.eval()
 
-_ = utils.load_checkpoint("logs/text_encoder1/G_140000.pth", net_g, None)
+_ = utils.load_checkpoint("logs/text_encoder1/G_255000.pth", net_g, None)
 
 def synthesis(text, speaker_id, speaker_name, filename, english_flag, langauge):
     processed_text = process_text(text, english_flag)
