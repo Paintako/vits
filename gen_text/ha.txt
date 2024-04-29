@@ -1,5 +1,2 @@
 ha_01.wav|h2 am25 t2 oo23 n2 at24 s2 at28 sil k2 i25 v2 ooi21 f2 an21 s2 u25 sil k2 iook24 t2 ai22 p2 un21 f2 oo22 s2 ir22 n2 at24 t2 oo22 sil m2 oo25 s2 oong21 t2 oo22 gn2 in25 sil
 ha_02.wav|iu21 it24 gn2 it24 sil k2 i25 s2 un25 th2 eu25 m25 t2 i21 th2 an21 t2 en22 it24 h2 oong23 m2 a22 k2 e23 t2 ung21 sc2 i21 sil ia22 t2 ung21 sc2 i21 v2 ooi23 h2 au21 k2 oong21 t2 oong21 tsc2 iang21 sil
-ha_03.wav|h2 ook28 s2 ang21 e22 ts2 ang23 th2 ung25 t2 en21 ts2 an22 f2 oo22 ph2 un25 v2 u21 th2 et24 sil
-ha_04.wav|s2 irt28 tsh2 ai23 t2 oong21 tsc2 iang21 sil k2 u23 s2 oo22 sil ng2 ai25 h2 an25 sc2 ioong22 ts2 ai23 h2 i23 l2 iau23 it24 p2 ai22 oo21 sil
-ha_05.wav|ia22 h2 e23 h2 ang25 tsh2 un21 sil m25 h2 e23 ts2 eu22 tsh2 un21 sil sc2 in21 tsh2 un21 t2 i23 n2 am25 ts2 oong21 sil

@@ -1,5 +1,2 @@
-ctl_01.wav|uoo43 sc4 iang43 tsc4 i42 ph4 au44 m4 ieen44
-ctl_02.wav|uan43 sr4 ang44 sc4 iang43 tsch4 y44 k4 oong41 y4 een42 s4 an44 p4 u44
-ctl_03.wav|tsc4 in41 th4 ieen41 th4 ieen41 tsch4 i44 h4 on43 h4 au43
-ctl_04.wav|uoo43 tsc4 ioou44 t4 u42 k4 uoo42 l4 i44 tsrh4 ong42 k4 oong41 t4 a44 scy4 e42
-ctl_05.wav|t4 i44 i41 tsh4 ir44 tsh4 o44 sr4 ir44 k4 uoo42 y43 h4 o42 tsrh4 ong42
+ctl_01.wav|uoo43 tsc4 ioou44 t4 u42 k4 uoo42 l4 i44 tsrh4 ong42 k4 oong41 t4 a44 scy4 e42
+ctl_02.wav|tsrh4 on42 sc4 ieen41 sr4 ong41 tsrh4 ong42 l4 i44 tsh4 ir44 t4 ong43 tsr4 oong41 scy4 e42
