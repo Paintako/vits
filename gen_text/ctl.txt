@@ -1,5 +1,3 @@
-ctl_01.wav|uoo3 sciang3 tsci2 phau4 mieen4
-ctl_02.wav|uan3 srang4 sciang3 tschy4 koong1 yeen2 san4 pu4
-ctl_03.wav|tscin1 thieen1 thieen1 tschi4 hon3 hau3
-ctl_04.wav|uoo3 tscioou4 tu2 kuoo2 li4 tsrhong2 koong1 ta4 scye2
-ctl_05.wav|ti4 i1 tshir4 tsho4 srir4 kuoo2 y3 ho2 tsrhong2
+ctl_01.wav|uoo3 tscioou4 tu2 kuoo2 li4 tsrhong2 koong1 ta4 scye2
+ctl_02.wav|tsrhon2 scieen1 srong1 tsrhong2 li4 tshir4 tong3 tsroong1 scye2
+ctl_03.wav|tsron1 tuei4 ko4 tscie4 phi1 phing2 khan4 fa3 , fu4 tso2 piau3 srir4 , tscing4 ta4 tscia1 pie2 tsai4 koong1 tsci2 lai4 tsching1 to2 ,  in1 uei4 lai4 tsching1 to2 i3 tscing1 piau3 srir4 kuoo4 , koong4 tsrhan3 tang3 sci1 uang4 nong2 koou4 kon1 min2 tscin4 tang3 tuei4 hua4 , tshir3 srir2 kuoo2 min2 tang3 mai4 tsrhu1 to0 tuei4 hua4 ,  ie3 srir4 lai4 tsching1 to2 tsrir1 tschieen2 suoo3 hu1 y4 to0 nei4 jroong2 , jro3 tshir3 tshir4 liang3 an4 tsciau1 lioou2 tscioou4 srir4 tsrhu1 mai4 thai2 uan1 , na1 lai4 tsching1 to2 pu4 srir4 ie3 tsruon3 pei4 tsrhu1 mai4 thai2 uan1 , tha1 sci1 uang4 ko4 tscie4 nong2 koou4 tsuon1 tsroong4 lai4 tsching1 to2 to0 sciang3 fa3 , kong1 hu1 y4 min2 tscin4 tang3 pie2 tsai4 koong1 tsci2 lai4 tsching1 to2 , mieen4 tuei4 thai2 uan1 tsru3 lioou2 min2 i4 , pu4 iau4 tsai4 tang1 uang3 tscyn1 tsho4 i4 ,  ing1 kai1 ioong3 kan3 tsran4 tsrhu1 lai2 iau1 uei2 thai2 uan1 jron2 min2 tsuoo4 srir2 srir4 , tsuoo4 hau3 srir4 , liang3 an4 ho2 phing2 nong2 ioou3 kong1 sran4 i4 to0 tuei1 tie2 ,  uei2 jron2 min2 tsuoo4 tsrhu1 kong1 hau3 to0 koong4 scieen4 , 

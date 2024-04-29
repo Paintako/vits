@@ -1,7 +1,2 @@
-tw_01.wav|manni2 ti3 au3 piah4 koong1 dlang5 e7 phainn1 ue7
-tw_02.wav|gua1 i1 kieng1 sciunn3 bo7 khah1 ho2 e7 ke3 ti3 ah3
-tw_03.wav|tscit8 kieng7 tiam2 sci3 sng3 dlang7 thau5 sciu7 tscinn5 e7
-tw_04.wav|dli1 e7 pak8 too2 nann1 e3 hia2 ninn7 tua3 khieen1
-tw_05.wav|gua1 tsu3 thau5 tioh8 bo7 scioong7 scin3 i7 e7 ue7
-tw_06.wav|djzi3 poo3 tschit8 eh2 , i7 pit8 djzoong1 , eh2 tschoong2
-tw_07.wav|sciunn3 sciu7 i7 e7
+tw_01.wav|gua1 tsu3 thau5 tioh8 bo7 scioong7 scin3 i7 e7 ue7
+tw_02.wav|manni2 ti3 au3 piah4 koong1 dlang5 e7 phainn1 ue7
